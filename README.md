@@ -2,14 +2,15 @@ Programming Languages and Type Theory
 -------------------------------------
 
   1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
-  1. [TAPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+  1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
 
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
   - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
-  - [ATTAPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
+  - [ATTaPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
   - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
+  - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt
 
 
 Functional Programming
