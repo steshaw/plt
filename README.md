@@ -4,6 +4,7 @@ Type Theory
   1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
   1. [TAPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
 
+  - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
   - [ATTAPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited
   by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
 
