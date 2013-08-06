@@ -11,12 +11,17 @@ Programming Languages and Type Theory
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
   - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
   - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
+  - [EOPL](http://www.eopl3.com/) Essentials of Programming Languages, 3rd Edition, Daniel P. Friedman
+  - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
+  - [HoTT](http://homotopytypetheory.org/book/) Homotopy Type Theory, Univalent Foundations of Mathematics
 
 
 Functional Programming
 ----------------------
 
   1. [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
+
+  - [SICP](http://mitpress.mit.edu/sicp/), Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman
 
 
 Category Theory
