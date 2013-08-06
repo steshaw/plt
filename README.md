@@ -11,9 +11,11 @@ Programming Languages and Type Theory
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
   - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
   - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
-  - [EOPL](http://www.eopl3.com/) Essentials of Programming Languages, 3rd Edition, Daniel P. Friedman
+  - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
   - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
-  - [HoTT](http://homotopytypetheory.org/book/) Homotopy Type Theory, Univalent Foundations of Mathematics
+  - [HoTT](http://homotopytypetheory.org/book/) - Homotopy Type Theory, Univalent Foundations of Mathematics
+  - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
+  - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
 
 
 Functional Programming
