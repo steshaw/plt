@@ -10,7 +10,7 @@ Programming Languages and Type Theory
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
   - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
-  - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt
+  - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
 
 
 Functional Programming
