@@ -41,8 +41,11 @@ Functional Programming
 
   1. [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
 
+  - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
   - [SICP](http://mitpress.mit.edu/sicp/), Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman
   - [PCPH](http://chimera.labs.oreilly.com/books/1230000000929) - Parallel and Concurrent Programming in Haskell - Simon Marlow
+  - [RWOC](https://realworldocaml.org/) - Real World OCaml - Jason Hickey, Anil Madhavapeddy, and Yaron Minsky
+  - [www](http://caml.inria.fr/pub/docs/oreilly-book/index.html) - Developing Applications With OCaml - Emmanuel Chailloux, Pascal Manoury and Bruno Pagano, 2000
 
 
 Category Theory
