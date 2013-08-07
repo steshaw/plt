@@ -1,5 +1,8 @@
-Programming Languages and Type Theory
--------------------------------------
+Programming Language Theory
+===========================
+
+Type Theory
+-----------
 
   1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
   1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
@@ -8,14 +11,29 @@ Programming Languages and Type Theory
   - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
   - [ATTaPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
-  - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
-  - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
   - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
-  - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
-  - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
   - [HoTT](http://homotopytypetheory.org/book/) - Homotopy Type Theory, Univalent Foundations of Mathematics
   - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
+  - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
+  - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
+
+
+Programming Languages (other)
+-----------------------------
+  - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
+  - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
+  - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
+  - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
+
+
+Implementing Compilers
+----------------------
+
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
+  - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
+  - [MCIiML](http://www.cs.princeton.edu/~appel/modern/ml/) Modern Compiler Implementation in ML - Andrew W. Appel
+  - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional langauges: a tutorial - Simon Peyton Jones and David Lester, 1992
+  - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
 
 
 Functional Programming
