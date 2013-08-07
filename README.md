@@ -4,8 +4,8 @@ Programming Language Theory
 Type Theory
 -----------
 
-  1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
-  1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+  - [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
+  - [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
 
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
   - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
@@ -42,11 +42,12 @@ Implementing Compilers
 Functional Programming
 ----------------------
 
-  1. [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
+  - [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
 
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
   - [www](http://www.cs.nott.ac.uk/~gmh/book.html) - Programming in Haskell - Graham Hutton, 2007
   - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
+  - [FPiS] (http://www.manning.com/bjarnason/) - Functional Programming in Scala - Paul Chiusano and Rúnar Bjarnason
   - [SICP](http://mitpress.mit.edu/sicp/), Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman
   - [PCPH](http://chimera.labs.oreilly.com/books/1230000000929) - Parallel and Concurrent Programming in Haskell - Simon Marlow
   - [RWOC](https://realworldocaml.org/) - Real World OCaml - Jason Hickey, Anil Madhavapeddy, and Yaron Minsky
@@ -60,9 +61,9 @@ Functional Programming
 Category Theory
 ---------------
 
-  1. [Conceptual
+  - [Conceptual
   Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition),
   A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
-  1. [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr
+  - [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr
   and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
 
