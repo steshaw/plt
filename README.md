@@ -24,6 +24,7 @@ Programming Languages
   - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/)
   - [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
+  - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
 
 
 Implementing Compilers
@@ -48,6 +49,10 @@ Functional Programming
   - [PCPH](http://chimera.labs.oreilly.com/books/1230000000929) - Parallel and Concurrent Programming in Haskell - Simon Marlow
   - [RWOC](https://realworldocaml.org/) - Real World OCaml - Jason Hickey, Anil Madhavapeddy, and Yaron Minsky
   - [www](http://caml.inria.fr/pub/docs/oreilly-book/index.html) - Developing Applications With OCaml - Emmanuel Chailloux, Pascal Manoury and Bruno Pagano, 2000
+  - [www](http://www.ccs.neu.edu/home/matthias/BTLS/) - The Little Schemer - Daniel P. Friedman, Matthias Felleisen
+  - [www](http://www.ccs.neu.edu/home/matthias/BTSS/) - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
+  - [www](http://www.ccs.neu.edu/home/matthias/BTML/) - The Little MLer - Matthias Felleisen, Daniel P. Friedman
+  - [HTDP](http://www.htdp.org/) - How to Design Programs - Matthias Felleisen, Robert Findler, Matthew Flatt, Shriram Krishnamurthi
 
 
 Category Theory
