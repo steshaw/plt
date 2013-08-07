@@ -16,6 +16,7 @@ Type Theory
   - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
   - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
   - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
+  - [www](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf) Polymorphic typing of an algorithmic language - Xavier Leroy (PhD thesis)
 
 
 Programming Languages
@@ -35,6 +36,7 @@ Implementing Compilers
   - [MCIiML](http://www.cs.princeton.edu/~appel/modern/ml/) Modern Compiler Implementation in ML - Andrew W. Appel
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional langauges: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
+  - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
 
 
 Functional Programming
