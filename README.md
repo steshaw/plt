@@ -57,6 +57,7 @@ Functional Programming
   - [www](http://www.ccs.neu.edu/home/matthias/BTSS/) - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
   - [www](http://www.ccs.neu.edu/home/matthias/BTML/) - The Little MLer - Matthias Felleisen, Daniel P. Friedman
   - [HTDP](http://www.htdp.org/) - How to Design Programs - Matthias Felleisen, Robert Findler, Matthew Flatt, Shriram Krishnamurthi
+  - [HR](http://homepages.cwi.nl/~jve/HR/) - The Haskell Road to Logic, Maths and Programming - 2nd Ed. - Kees Doets, Jan van Eijck [pdf](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
 
 
 Category Theory
