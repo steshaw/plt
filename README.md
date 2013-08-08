@@ -18,6 +18,7 @@ Type Theory
   - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
   - [www](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf) Polymorphic typing of an algorithmic language - Xavier Leroy (PhD thesis)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
+  - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [www](http://mathgate.info/cebrown/notes/hindley97.php)
 
 
 Programming Languages
@@ -58,6 +59,7 @@ Functional Programming
   - [www](http://www.ccs.neu.edu/home/matthias/BTML/) - The Little MLer - Matthias Felleisen, Daniel P. Friedman
   - [HTDP](http://www.htdp.org/) - How to Design Programs - Matthias Felleisen, Robert Findler, Matthew Flatt, Shriram Krishnamurthi
   - [HR](http://homepages.cwi.nl/~jve/HR/) - The Haskell Road to Logic, Maths and Programming - 2nd Ed. - Kees Doets, Jan van Eijck [pdf](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
+  - A Book of Abstract Algebra - 2nd Ed. - Charles C. Pinter [booko](http://booko.com.au/9780486474175/Book-of-Abstract-Algebra)
 
 
 Category Theory
