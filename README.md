@@ -17,6 +17,7 @@ Type Theory
   - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
   - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
   - [www](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf) Polymorphic typing of an algorithmic language - Xavier Leroy (PhD thesis)
+  - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
 
 
 Programming Languages
