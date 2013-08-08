@@ -75,3 +75,6 @@ Category Theory
 
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
+  - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
+
+
