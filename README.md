@@ -19,6 +19,7 @@ Type Theory
   - [www](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf) Polymorphic typing of an algorithmic language - Xavier Leroy (PhD thesis)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
   - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [www](http://mathgate.info/cebrown/notes/hindley97.php)
+  - Semantics with Applications: An Appetizer - Hanne Riis Nielson, Flemming Nielson [pdf](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf)
 
 
 Programming Languages
