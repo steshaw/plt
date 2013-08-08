@@ -62,7 +62,7 @@ Functional Programming
   - [HR](http://homepages.cwi.nl/~jve/HR/) - The Haskell Road to Logic, Maths and Programming - 2nd Ed. - Kees Doets, Jan van Eijck [pdf](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
   - A Book of Abstract Algebra - 2nd Ed. - Charles C. Pinter [booko](http://booko.com.au/9780486474175/Book-of-Abstract-Algebra)
   - Lectures on the Curry-Howard Isomorphism [pdf](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
-  - Purely Functional Data Structures - Chris Okasaki [phd-thesis in pdf](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) [paperback@booko](http://booko.com.au/9780521663502/Purely-Functional-Data-Structures)
+  - Purely Functional Data Structures - Chris Okasaki [phd-thesis in pdf](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) [paperback@booko](http://booko.com.au/9780521663502/Purely-Functional-Data-Structures) [More purely functional data structures](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki)
 
 
 Category Theory
