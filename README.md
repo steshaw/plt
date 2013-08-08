@@ -74,3 +74,4 @@ Category Theory
   and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
 
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
+  - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
