@@ -40,6 +40,8 @@ Compiler Construction
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
 
+  - [Coursera - Stanford - Compilers](http://www.coursera.org/course/compilers) - Alex Aiken
+
 Runtime systems
 ---------------
 
