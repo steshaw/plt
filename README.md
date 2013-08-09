@@ -1,6 +1,11 @@
 Programming Language Theory
 ===========================
 
+ - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - Collected by Benjamin Piece
+ - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
+ - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
+
+
 Type Theory
 -----------
 
