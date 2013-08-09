@@ -21,6 +21,12 @@ Type Theory
   - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [www](http://mathgate.info/cebrown/notes/hindley97.php) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
   - Semantics with Applications: An Appetizer - Hanne Riis Nielson, Flemming Nielson [pdf](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf)
 
+  - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
+  - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
+  - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
+  - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
+  - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](http://www.youtube.com/watch?v=XGyJ519RY6Y)
+
 
 Programming Languages
 ---------------------
