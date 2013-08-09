@@ -30,8 +30,8 @@ Programming Languages
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
 
 
-Implementing Compilers
-----------------------
+Compiler Construction
+---------------------
 
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
   - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
@@ -39,6 +39,11 @@ Implementing Compilers
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional langauges: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
+
+Runtime systems
+---------------
+
+  - The Garbage Collection Handbook, The Art of Automatic Memory Management - 2011 - Richard Jones, Antony Hosking, Eliot Moss - [www](http://gchandbook.org/)
 
 
 Functional Programming
