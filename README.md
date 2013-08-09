@@ -52,6 +52,7 @@ Runtime systems
 ---------------
 
   - The Garbage Collection Handbook, The Art of Automatic Memory Management - 2011 - Richard Jones, Antony Hosking, Eliot Moss - [www](http://gchandbook.org/)
+  - [Lambda: The Ultimate GOTO](http://library.readscheme.org/page1.html) - Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO - 1977 - Guy Lewis Steele, Jr. [pdf](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
 
 
 Functional Programming
