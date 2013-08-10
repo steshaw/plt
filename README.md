@@ -106,10 +106,12 @@ Functional Programming
 
 ### Papers
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
+  - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - Andres Löh. This an epic, book-length PhD on datatype generic programming. Some parts are very accessible.
 
 ### Videos
   - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals [www](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
   - C9 Lectures: Dr. Ralf Lämmel - Going Bananas + Advanced Functional Programming [www](http://channel9.msdn.com/Tags/ralf-laemmel)
+  - [Datatype-Generic Programming in Haskell](http://skillsmatter.com/podcast/home/a-haskell-lecture-with-leading-expert-andres-loh) - Andres Löh - [slides in pdf](http://www.andres-loeh.de/GP-ITB.pdf)
 
 
 Category Theory
