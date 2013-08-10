@@ -25,6 +25,9 @@ Type Theory
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
   - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [www](http://mathgate.info/cebrown/notes/hindley97.php) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
   - Semantics with Applications: An Appetizer - Hanne Riis Nielson, Flemming Nielson [pdf](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf)
+  - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
+  - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
+  - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
 
   - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
   - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
@@ -99,5 +102,6 @@ Category Theory
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
   - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
+  - Basic Category Theory for Computer Scientists - Benjamin C. Pierce
 
 
