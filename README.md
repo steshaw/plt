@@ -1,6 +1,8 @@
 Programming Language Theory
 ===========================
 
+### Other collections
+
  - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - Collected by Benjamin Piece
  - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
  - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
@@ -9,8 +11,11 @@ Programming Language Theory
 Type Theory
 -----------
 
+### Selected
   1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
   1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+
+### Books
 
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
   - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
@@ -29,6 +34,7 @@ Type Theory
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
 
+### Videos
   - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
   - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
   - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
@@ -38,36 +44,53 @@ Type Theory
 
 Programming Languages
 ---------------------
+
+### Books
   - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
   - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/) [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
+
+### Papers
   - An argument against call/cc - Oleg Kiselyov [www](http://okmij.org/ftp/continuations/against-callcc.html)
 
 
 Compiler Construction
 ---------------------
 
+### Books
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
   - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
   - [MCIiML](http://www.cs.princeton.edu/~appel/modern/ml/) Modern Compiler Implementation in ML - Andrew W. Appel
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional langauges: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
+
+### Papers
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
 
+### Videos
   - [Coursera - Stanford - Compilers](http://www.coursera.org/course/compilers) - Alex Aiken
+
 
 Runtime systems
 ---------------
 
+### Books
+
   - The Garbage Collection Handbook, The Art of Automatic Memory Management - 2011 - Richard Jones, Antony Hosking, Eliot Moss - [www](http://gchandbook.org/)
+
+### Papers
   - [Lambda: The Ultimate GOTO](http://library.readscheme.org/page1.html) - Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO - 1977 - Guy Lewis Steele, Jr. [pdf](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
 
 
 Functional Programming
 ----------------------
 
+### Selected
+
   1. [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
+
+### Books
 
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
   - Programming in Haskell - Graham Hutton, 2007 [www](http://www.cs.nott.ac.uk/~gmh/book.html)
@@ -97,12 +120,14 @@ Functional Programming
 Category Theory
 ---------------
 
+### Selected
   1. [Conceptual
   Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition),
   A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
   1. [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr
   and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
 
+### Books
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
   - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
