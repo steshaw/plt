@@ -1,8 +1,6 @@
 Programming Language Theory
 ===========================
 
-
-
 Type Theory
 -----------
 
