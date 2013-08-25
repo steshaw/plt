@@ -27,6 +27,7 @@ Type Theory
   - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
+  - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
 
 ### Videos
   - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
