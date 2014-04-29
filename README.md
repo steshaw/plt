@@ -5,7 +5,7 @@ Type Theory
 -----------
 
 ### Selected
-  1. [How to prove it](http://www.amazon.com/How-to-Prove-It-ebook/dp/B009XBOBL6/ref=tmm_kin_title_0) - Daniel J. Velleman
+  1. [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) - Daniel J. Velleman
   1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
 
 ### Books
