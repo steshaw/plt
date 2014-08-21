@@ -11,13 +11,13 @@ Extract of the SML code from the presentation/paper https://github.com/steshaw/p
 
 The authors note that to make these "type classes" convenient in SML, you'd need to add implicit parameters (ala Scala - this is after Odersky's "poor man's type classes" but I'm not sure if they were inspired by it here).
 
-A related paper with Stefan Wehr: http://www.cse.unsw.edu.au/~chak/papers/modules-classes.pdf
+A related paper with Stefan Wehr: http://www.cse.unsw.edu.au/~chak/papers/modules-classes.pdf.
 Stefan further developed theses ideas in his thesis http://www.stefanwehr.de/ with a Java extension.
 
 [[http://www.mpi-sws.org/~dreyer/][Derek Dreyer]] — Uber researcher on module systems.
 
-Scott Kilpatrick (working on "modules" for Haskell - a better package system AFAIK)
-http://www.mpi-sws.org/~skilpat/
+Scott Kilpatrick (working on "modules" for Haskell - a better package system AFAIK).
+http://www.mpi-sws.org/~skilpat/. This is [[http://plv.mpi-sws.org/backpack/][Backpack]] for Haskell/GHC.
 
 Scott's revelation when he finds the "modular type classes" work
 http://skilpat.tumblr.com/post/208298998/max-planck-and-modular-type-classes
