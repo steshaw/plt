@@ -1,14 +1,14 @@
 
-* Modular Type Classes (05-Mar-2013)
+* Modular Type Classes (email to coq-study mailing list, 05-Mar-2013)
 
-[[http://www.cse.unsw.edu.au/~chak/papers/DHC07.html][Modular Type Classes] - the original paper]
+[[http://www.cse.unsw.edu.au/~chak/papers/DHC07.html][Modular Type Classes]] - the original paper.
 
 These kinds of papers can be tough going but I recall that presentation gives you a really good intuition about it.
 http://www.mpi-sws.org/~dreyer/talks/popl07.ppt [[https://docs.google.com/viewer?a=v&q=cache:cx96awCp_lIJ:www.mpi-sws.org/~dreyer/talks/popl07.ppt+&hl=en&pid=bl&srcid=ADGEESg5e53hOkNZbmS0DeLJXGi53_bh1sP-L5LwI3TDc6E2EzXcwJ3DV-mbgFsi3TLY7sS2jgXJvaCl9nmma4pLJSBTnjPZEBiQIixaNwGxCOpzf_hWWbaMETVEVywbvWBw-ar62CLR&sig=AHIEtbQBIMONy2dxxecTju1aCnWiTcdn0A][QuickView]]
 
 Extract of the SML code from the presentation/paper https://github.com/steshaw/playground/blob/master/sml/typeClass.sml
 
-They note that to make these "type classes" convenient in SML, you'd need to add implicit parameters (ala Scala - this is after Odersky's "poor man's type classes" but I'm not sure if they were inspired by it here).
+The authors note that to make these "type classes" convenient in SML, you'd need to add implicit parameters (ala Scala - this is after Odersky's "poor man's type classes" but I'm not sure if they were inspired by it here).
 
 A related paper with Stefan Wehr: http://www.cse.unsw.edu.au/~chak/papers/modules-classes.pdf
 Stefan further developed theses ideas in his thesis http://www.stefanwehr.de/ with a Java extension.
@@ -29,13 +29,13 @@ My understanding is the ML-style modules (i.e. modules from SML and OCaml) use a
 
 ** Related
 
-** George Kuan
+*** George Kuan
 [[http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj][A True Higher-Order Module System], George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
 [[http://www.cs.hmc.edu/~gkuan/][homepage]]
 [[http://www.linkedin.com/pub/george-kuan/6/672/324][LinkedIn profile]]
 
 
-** Modular type classes show-stopper? (08-Jul-2012)
+** Modular type classes show-stopper? (email to self, 08-Jul-2012)
 
 http://lists.seas.upenn.edu/pipermail/types-list/2009/001405.html
 
@@ -50,7 +50,7 @@ http://permalink.gmane.org/gmane.comp.science.types/4875
 [[http://research.microsoft.com/en-us/um/people/crusso/ml2007/slides/yallop-ml07.pdf][Practical Generic Programming with OCaml], Jeremy Yallop, LFCS, University of Edinburgh, ML Workshop 2007.
 
 
-** Orphan instances (11-May-2012)
+** Orphan instances (email to self, 11-May-2012)
 
 It seems that Haskell's Type Classes _do_ find instances by linking only. i.e. instances are automatically exported/imported from the defining module (+ any recursively imported modules when importing).
 
