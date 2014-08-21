@@ -32,7 +32,7 @@ My understanding is the ML-style modules (i.e. modules from SML and OCaml) use a
 
 *** George Kuan
 
-- [[http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj][A True Higher-Order Module System], George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
+- [[http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj][A True Higher-Order Module System]], George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
 - [[http://www.cs.hmc.edu/~gkuan/][homepage]]
 - [[http://www.linkedin.com/pub/george-kuan/6/672/324][LinkedIn profile]]
 
