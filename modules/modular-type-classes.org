@@ -1,5 +1,6 @@
 
-* Modular Type Classes (email to coq-study mailing list, 05-Mar-2013)
+* Modular Type Classes
+(email to coq-study mailing list, 05-Mar-2013)
 
 [[http://www.cse.unsw.edu.au/~chak/papers/DHC07.html][Modular Type Classes]] - the original paper.
 
@@ -13,7 +14,7 @@ The authors note that to make these "type classes" convenient in SML, you'd need
 A related paper with Stefan Wehr: http://www.cse.unsw.edu.au/~chak/papers/modules-classes.pdf
 Stefan further developed theses ideas in his thesis http://www.stefanwehr.de/ with a Java extension.
 
-[[http://www.mpi-sws.org/~dreyer/][Derek Dreyer]]
+[[http://www.mpi-sws.org/~dreyer/][Derek Dreyer]] — Uber researcher on module systems.
 
 Scott Kilpatrick (working on "modules" for Haskell - a better package system AFAIK)
 http://www.mpi-sws.org/~skilpat/
@@ -35,7 +36,8 @@ My understanding is the ML-style modules (i.e. modules from SML and OCaml) use a
 [[http://www.linkedin.com/pub/george-kuan/6/672/324][LinkedIn profile]]
 
 
-** Modular type classes show-stopper? (email to self, 08-Jul-2012)
+** Modular type classes show-stopper?
+(email to self, 08-Jul-2012)
 
 http://lists.seas.upenn.edu/pipermail/types-list/2009/001405.html
 
@@ -50,7 +52,8 @@ http://permalink.gmane.org/gmane.comp.science.types/4875
 [[http://research.microsoft.com/en-us/um/people/crusso/ml2007/slides/yallop-ml07.pdf][Practical Generic Programming with OCaml], Jeremy Yallop, LFCS, University of Edinburgh, ML Workshop 2007.
 
 
-** Orphan instances (email to self, 11-May-2012)
+** Orphan instances
+(email to self, 11-May-2012)
 
 It seems that Haskell's Type Classes _do_ find instances by linking only. i.e. instances are automatically exported/imported from the defining module (+ any recursively imported modules when importing).
 
