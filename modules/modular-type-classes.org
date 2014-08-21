@@ -1,6 +1,7 @@
 
 * Modular Type Classes
-(email to coq-study mailing list, 05-Mar-2013)
+
+(Adapted from [[http://lists.bfpg.org/mailman/private/coq-study/2013-March/000129.html][email to coq-study mailing list, 05-Mar-2013]])
 
 [[http://www.cse.unsw.edu.au/~chak/papers/DHC07.html][Modular Type Classes]] - the original paper.
 
@@ -38,6 +39,7 @@ My understanding is the ML-style modules (i.e. modules from SML and OCaml) use a
 
 
 ** Modular type classes show-stopper?
+
 (email to self, 08-Jul-2012)
 
 http://lists.seas.upenn.edu/pipermail/types-list/2009/001405.html
@@ -54,6 +56,7 @@ http://permalink.gmane.org/gmane.comp.science.types/4875
 
 
 ** Orphan instances
+
 (email to self, 11-May-2012)
 
 It seems that Haskell's Type Classes _do_ find instances by linking only. i.e. instances are automatically exported/imported from the defining module (+ any recursively imported modules when importing).
@@ -64,4 +67,3 @@ http://www.haskell.org/haskellwiki/Orphan_instance
 Link to partial Revelation is broken. This might be a good substitute http://www.cs.tut.fi/lintula/manual/modula3/modula-3/html/partial-rev/index.html
 
 IMO this is much better solved with "normal" scoping rules (including implicit definitions).
-
