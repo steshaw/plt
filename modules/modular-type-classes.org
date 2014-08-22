@@ -41,9 +41,7 @@ Bruno Oliveira went on to write a paper about "implicits" with some other folks.
 
 http://ropas.snu.ac.kr/~wclee/papers/pldi12a.pdf
 
-The idea is to study the "implicits" as a separate language feature that should be considered by language designers, or in their words
-
-This calculus isolates and formalizes the key ideas of Scala implicits and provides a simple model for language designers interested in developing similar mechanisms for their own languages.
+The idea is to study the "implicits" as a separate language feature that should be considered by language designers, or in their words "This calculus isolates and formalizes the key ideas of Scala implicits and provides a simple model for language designers interested in developing similar mechanisms for their own languages.".
 
 
 *** George Kuan
