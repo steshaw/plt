@@ -31,6 +31,8 @@ My understanding is the ML-style modules (i.e. modules from SML and OCaml) use a
 
 ** Related
 
+[[http://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf][Type Classes as Objects and Implicits]] (email to self 03-May-2012)
+
 *** George Kuan
 
 - [[http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj][A True Higher-Order Module System]], George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
@@ -53,6 +55,7 @@ http://permalink.gmane.org/gmane.comp.science.types/4875
 ** Modular type classes and deriving
 
 [[http://research.microsoft.com/en-us/um/people/crusso/ml2007/slides/yallop-ml07.pdf][Practical Generic Programming with OCaml]], Jeremy Yallop, LFCS, University of Edinburgh, ML Workshop 2007.
+
 
 
 ** Orphan instances
