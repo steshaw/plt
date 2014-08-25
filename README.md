@@ -30,10 +30,12 @@ Type Theory
   - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
 
 ### Videos
-  - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
-  - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
-  - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
-  - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
+  - [OPLSS](http://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2014](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html) - Oregon Programming Language Summer School 2014
+    - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
+    - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
+    - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
+    - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
   - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](http://www.youtube.com/watch?v=XGyJ519RY6Y)
 
 
