@@ -146,4 +146,5 @@ Other collections
  - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
  - [Lambda the Ultimate](http://lamda-the-ultimate.org/) - Ehud Lamm et al.
  - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/people/index.html) (stale but includes "classic") - Chris Rathman
+ - [Functional programming books overview](http://alexott.net/en/fp/books/) — Alex (Alexey) Ott
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
