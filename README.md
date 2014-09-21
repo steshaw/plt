@@ -132,6 +132,7 @@ Category Theory
   and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
 
 ### Books
+  - Topoi, The Categorical Analysis of Logic, Robert Goldblatt [pdf](http://sistemas.fciencias.unam.mx/~lokylog/images/stories/Alexandria/Studies%20in%20Logic%20and%20the%20Foundations%20of%20Mathematics/%5BSLFM%20098%5D%20Topoi.%20The%20Categorial%20Analysis%20of%20Logic%20-%20Robert%20Goldblatt%20%5BStudies%20in%20Logic%20and%20the%20Foundations%20of%20Mathematics%5D%20(1984.2ed)(T).pdf)
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
   - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
