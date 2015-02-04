@@ -9,6 +9,7 @@ Recursion Schemes
 ### Papers
   - [Functional Programming with Bananas, Lenses, Envelopes and Barbed Wire](http://eprints.eemcs.utwente.nl/7281/01/db-utwente-40501F46.pdf) — Erik Meijer, Maarten Fokkinga, Ross Paterson
   - [Origami programming](https://www.cs.ox.ac.uk/jeremy.gibbons/publications/origami.pdf) — Jeremy Gibbons
+  - [Data types à la carte](http://www.staff.science.uu.nl/~swier004/Publications/DataTypesALaCarte.pdf) - Wouter Swierstra
 
 
 ### Talks
