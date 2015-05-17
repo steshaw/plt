@@ -1,3 +1,8 @@
+---
+layout: page
+title: Programming Language Theory
+---
+
 Programming Language Theory
 ===========================
 
