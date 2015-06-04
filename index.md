@@ -8,7 +8,7 @@ Programming Language Theory
 
 Finding a "path to enlightenment" in _Programming Language Theory_ can be a tough one, particularly for pracitioners who didn't learn it at school. This resource is here to help. Please feel free to ping me or send pull requests if you have ideas for improvement.
 
-Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, this is how it is :).
+Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, it is what it is.
 
 
 Mathematical Literacy
