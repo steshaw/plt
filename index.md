@@ -6,16 +6,32 @@ title: Programming Language Theory
 Programming Language Theory
 ===========================
 
+Find a path to enlightenment in Programming Language Theory can be a tough one, particularly for pracitioners who didn't learn it at school. This resource is here to help. Please feel free to ping me or send pull requests if you have ideas for improvement.
+
+Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, this is how it is :).
+
+
+Mathematical Literacy
+---------------------
+
+  - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
+  - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) - Daniel J. Velleman
+
+
 Type Theory
 -----------
 
-### Selected
-  1. [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) - Daniel J. Velleman
-  1. [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+For a quick course in Type Theory, Philip Wadler recommends:
+
+  - Pierce, Types and Programming Languages
+  - Girard, Proofs and Types
+  - Pierce, Advanced Topics in Types and Programming Languages
 
 ### Books
 
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
+  - [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+  - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
   - [PFPL](http://www.cs.cmu.edu/~rwh/plbook/book.pdf) - Practical Foundations for Programming Languages - Robert Harper
   - [ATTaPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
@@ -24,7 +40,6 @@ Type Theory
   - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
   - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
   - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
-  - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
   - Using, Understanding, and Unravelling The OCaml Language — An introduction [pdf](http://pauillac.inria.fr/~remy/cours/appsem/ocaml.pdf)
   -  Polymorphic typing of an algorithmic language (PhD Thesis) - Xavier Leroy [pdf](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
@@ -94,12 +109,9 @@ Runtime systems
 Functional Programming
 ----------------------
 
-### Selected
-
-  1. [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
-
 ### Books
 
+  - [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
   - Programming in Haskell - Graham Hutton, 2007 [www](http://www.cs.nott.ac.uk/~gmh/book.html)
   - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
@@ -130,20 +142,19 @@ Functional Programming
 Category Theory
 ---------------
 
-### Selected
-  1. [Conceptual
-  Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition),
-  A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
-  1. [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr
-  and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
+Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the presentation of the maths".
 
 ### Books
+  - [Cakes, Custard and Category Theory: Easy recipes for understanding complex maths](http://www.amazon.com/Cakes-Custard-Category-Theory-understanding-ebook/dp/B00TA8SIV6) — [Eugenia Cheng](http://eugeniacheng.com/)
   - Category Theory, Steve Awodey. [pdf](http://www.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf)
+  - Basic Category Theory for Computer Scientists - Benjamin C. Pierce
+  - [Categories for the Working Mathematician](http://www.maths.ed.ac.uk/~aar/papers/maclanecat.pdf) — Saunders Mac Lane
+  - [Conceptual Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition) A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
+  - [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/) — David I. Spivak. Previously available in a draft entitled [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf)
+  - [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
   - Topoi, The Categorical Analysis of Logic, Robert Goldblatt [pdf](http://sistemas.fciencias.unam.mx/~lokylog/images/stories/Alexandria/Studies%20in%20Logic%20and%20the%20Foundations%20of%20Mathematics/%5BSLFM%20098%5D%20Topoi.%20The%20Categorial%20Analysis%20of%20Logic%20-%20Robert%20Goldblatt%20%5BStudies%20in%20Logic%20and%20the%20Foundations%20of%20Mathematics%5D%20(1984.2ed)(T).pdf)
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
-  - Category Theory for Scientists - David I. Spivak [pdf](http://math.mit.edu/~dspivak/CT4S.pdf)
-  - Basic Category Theory for Computer Scientists - Benjamin C. Pierce
 
 
 Other collections
