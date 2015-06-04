@@ -21,11 +21,7 @@ Mathematical Literacy
 Type Theory
 -----------
 
-For a quick course in Type Theory, Philip Wadler recommends:
-
-  - Pierce, Types and Programming Languages
-  - Girard, Proofs and Types
-  - Pierce, Advanced Topics in Types and Programming Languages
+For a quick course in Type Theory, Philip Wadler recommends: *Types and Programming Languages*, *Proofs and Types*, followed by *Advanced Topics in Types and Programming Languages*.
 
 ### Books
 
