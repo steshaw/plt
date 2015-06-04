@@ -54,7 +54,7 @@ Programming Languages
 ---------------------
 
 ### Books
-  - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter van Roby and Seif Haridi
+  - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques and Models of Computer Programming, Peter Van Roy and Seif Haridi
   - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/) [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
