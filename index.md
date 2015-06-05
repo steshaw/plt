@@ -16,6 +16,7 @@ Mathematical Literacy
 
   - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
   - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) - Daniel J. Velleman
+  - Advanced Modern Algebra — Joseph J. Rotman [pdf](http://www.math.hcmuns.edu.vn/~nvdong/DaiSoDaiCuong/Advanced%20Modern%20Algebra%20-%20Joseph%20J.%20Rotman.pdf)
 
 
 Type Theory
