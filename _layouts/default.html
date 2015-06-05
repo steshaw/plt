@@ -1,3 +1,10 @@
+{% assign base = '' %}
+{% assign depth = page.url | split: '/' | size | minus: 1 %}
+{% if    depth == 1 %}{% assign base = '.' %}
+{% elsif depth == 2 %}{% assign base = '..' %}
+{% elsif depth == 3 %}{% assign base = '../..' %}
+{% elsif depth == 4 %}{% assign base = '../../..' %}
+{% endif %}
 <!doctype html>
 <html>
   <head>
@@ -5,9 +12,9 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>PLT by steshaw</title>
 
-    <link rel="stylesheet" href="{{site.baseurl}}/stylesheets/styles.css">
-    <link rel="stylesheet" href="{{site.baseurl}}/stylesheets/github-light.css">
-    <script src="{{site.baseurl}}/javascripts/scale.fix.js"></script>
+    <link rel="stylesheet" href="{{base}}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{base}}/stylesheets/github-light.css">
+    <script src="{{base}}/javascripts/scale.fix.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
