@@ -1,3 +1,8 @@
+---
+layout: page
+title: Category Theory — Recursion Schemes
+---
+
 Recursion Schemes
 -----------------
 
