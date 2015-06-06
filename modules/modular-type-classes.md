@@ -6,9 +6,6 @@ title: Modules — Modular Type Classes
 Modular Type Classes
 ====================
 
-(Adapted from [email to coq-study mailing list,
-05-Mar-2013](http://lists.bfpg.org/mailman/private/coq-study/2013-March/000129.html))
-
 [Modular Type
 Classes](http://www.cse.unsw.edu.au/~chak/papers/DHC07.html) - the
 original paper.
@@ -139,3 +136,6 @@ broken. This might be a good substitute
 
 IMO this is much better solved with "normal" scoping rules (including
 implicit definitions).
+
+---
+(Adapted from [email to coq-study mailing list, 05-Mar-2013](http://lists.bfpg.org/mailman/private/coq-study/2013-March/000129.html))
