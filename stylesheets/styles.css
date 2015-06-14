@@ -251,7 +251,7 @@ h1.header, a.header, a.name, header a{
 }
 
 a.header {
-  font-variant: small-caps;
+  font-weight: bold;
 }
 
 a.name {
