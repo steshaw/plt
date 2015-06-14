@@ -246,12 +246,13 @@ h1.header {
 }
 
 
-h1.header, a.header, a.name, header a{
-	color: #fff;
+h1.header, a.header, a.name, header a {
+  color: #fff;
+  font-weight: 500;
 }
 
 a.header {
-  font-weight: bold;
+  font-weight: 500;
 }
 
 a.name {
