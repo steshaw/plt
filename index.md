@@ -153,7 +153,7 @@ Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the pre
 ### Books
   - [Cakes, Custard and Category Theory: Easy recipes for understanding complex maths](http://www.amazon.com/Cakes-Custard-Category-Theory-understanding-ebook/dp/B00TA8SIV6) — [Eugenia Cheng](http://eugeniacheng.com/)
   - Category Theory, Steve Awodey. [pdf](http://www.mpi-sws.org/~dreyer/courses/catlogic/awodey.pdf)
-  - Basic Category Theory for Computer Scientists - Benjamin C. Pierce
+  - Basic Category Theory for Computer Scientists - Benjamin C. Pierce. Previously available in a draft entitled [A taste of category theory for computer scientists](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2846&context=compsci)
   - [Categories for the Working Mathematician](http://www.maths.ed.ac.uk/~aar/papers/maclanecat.pdf) — Saunders Mac Lane
   - [Conceptual Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition) A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
   - [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/) — David I. Spivak. Previously available in a draft entitled [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf)
