@@ -173,7 +173,7 @@ Other collections
  - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - Collected by Benjamin Piece
  - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
  - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
- - [Lambda the Ultimate](http://lamda-the-ultimate.org/) - Ehud Lamm et al.
+ - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Ehud Lamm et al.
  - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/people/index.html) (stale but includes "classic") - Chris Rathman
  - [Functional programming books overview](http://alexott.net/en/fp/books/) — Alex (Alexey) Ott
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
