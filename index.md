@@ -178,4 +178,4 @@ Other collections
  - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Ehud Lamm et al.
  - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/lambda.html) (stale but includes "classic") - Chris Rathman
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
- - [PL Summer Schools \forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://cgi.di.uoa.gr/~biboudis/)
+ - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://cgi.di.uoa.gr/~biboudis/)
