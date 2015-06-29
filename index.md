@@ -119,7 +119,7 @@ Functional Programming
 
 ### Books
 
-  - [Bird and Wadler](http://www.nlda-tw.nl/janmartin/vakken/TFIT/Extra%20materiaal/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
+  - [Bird and Wadler](http://usi-pl.github.io/lc/sp-2015/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
   - Programming in Haskell - Graham Hutton, 2007 [www](http://www.cs.nott.ac.uk/~gmh/book.html)
   - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
