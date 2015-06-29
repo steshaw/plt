@@ -58,6 +58,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Videos
   - [OPLSS](http://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2015](http://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - Oregon Programming Language Summer School 2015
     - [OPLSS 2014](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html) - Oregon Programming Language Summer School 2014
     - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
     - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
