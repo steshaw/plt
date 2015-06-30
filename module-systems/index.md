@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Modules — Modular Type Classes
+title: Module Systems
 ---
 
-Modular Type Classes
-====================
+# Module Systems
+
+## Modular Type Classes
 
 [Modular Type
 Classes](http://www.cse.unsw.edu.au/~chak/papers/DHC07.html) - the
@@ -50,10 +51,9 @@ operate on modules called functors (not to be confused with
 fmap-Functors or Applicative Functors). These module functors are
 parameterised modules.
 
-Related
--------
+### Related
 
-### Bruno Oliveira
+#### Bruno Oliveira
 
 [Type Classes as Objects and
 Implicits](http://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf) (email
@@ -72,7 +72,7 @@ calculus isolates and formalizes the key ideas of Scala implicits and
 provides a simple model for language designers interested in developing
 similar mechanisms for their own languages.".
 
-### Odersky
+#### Odersky
 
 (Email to Mark Perty 31-Oct-2013)
 
@@ -88,7 +88,7 @@ and again (more formally) in 2010:
 
 <http://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf>
 
-### George Kuan
+#### George Kuan
 
 -   [A True Higher-Order Module
     System](http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj),
@@ -97,8 +97,7 @@ and again (more formally) in 2010:
 -   [LinkedIn
     profile](http://www.linkedin.com/pub/george-kuan/6/672/324)
 
-Modular type classes show-stopper?
-----------------------------------
+### Modular type classes show-stopper?
 
 (email to self, 08-Jul-2012)
 
@@ -111,15 +110,13 @@ since the type of x is universally quantified, the canonical instance of
 Num a **must** be determined dynamically (i.e. passed in as an
 argument)."
 
-Modular type classes and deriving
----------------------------------
+### Modular type classes and deriving
 
 [Practical Generic Programming with
 OCaml](http://research.microsoft.com/en-us/um/people/crusso/ml2007/slides/yallop-ml07.pdf),
 Jeremy Yallop, LFCS, University of Edinburgh, ML Workshop 2007.
 
-Orphan instances
-----------------
+### Orphan instances
 
 (email to self, 11-May-2012)
 

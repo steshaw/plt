@@ -68,8 +68,8 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Subtopics
 
-- [Modular Type Classes](modules/modular-type-classes.html)
-- [HoTT](hott/index.html)
+- [Higher Type Theory](higher-type-theory/)
+- [Modular Type Classes](module-systems/)
 
 
 Programming Languages
