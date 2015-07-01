@@ -140,6 +140,9 @@ Functional Programming
 ### Papers
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, assessible, book-length PhD on datatype generic programming.
+  - ICFP accepted papers
+    - [[https://github.com/mpickering/icfp2015-papers][2015]]
+    - [[https://github.com/gasche/icfp2013-papers][2013]]
 
 ### Videos
   - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals [www](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
