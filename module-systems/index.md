@@ -5,6 +5,12 @@ title: Module Systems
 
 # Module Systems
 
+
+## Courses
+
+- [[https://wiki.mpi-sws.org/star/paramore][Parametricity and Modular Reasoning]] [[http://www.mpi-sws.org/~dreyer/][Derek Dreyer]]
+
+
 ## Modular Type Classes
 
 [Modular Type
