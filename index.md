@@ -3,6 +3,7 @@ layout: page
 title: Programming Language Theory
 ---
 
+
 Programming Language Theory
 ===========================
 
@@ -11,11 +12,13 @@ Finding a path to enlightenment in _Programming Language Theory_ can be a tough 
 Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, it is what it is.
 
 
+
 Mathematical Literacy
 ---------------------
 
   - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
   - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) — Daniel J. Velleman
+
 
 ### Algebra
 
@@ -23,10 +26,12 @@ Mathematical Literacy
   - A Survey of Modern Algebra — Birkhoff and MacLane [Scribd](https://www.scribd.com/doc/198868558/A-Survey-of-Modern-Algebra-Birkhoff-MacLane#scribd)
 
 
+
 Type Theory
 -----------
 
 For a quick course in Type Theory, Philip Wadler recommends: *Types and Programming Languages*, *Proofs and Types*, followed by *Advanced Topics in Types and Programming Languages*.
+
 
 ### Books
 
@@ -51,10 +56,12 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
 
+
 ### Papers
 
   - Lambda Calculi with Types — Henk Barendregt [pdf](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
   - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
+
 
 ### Videos
   - [OPLSS](http://www.cs.uoregon.edu/research/summerschool/)
@@ -66,14 +73,17 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
     - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
   - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](http://www.youtube.com/watch?v=XGyJ519RY6Y)
 
+
 ### Subtopics
 
 - [Higher Type Theory](higher-type-theory/)
 - [Module Systems](module-systems/)
 
 
+
 Programming Languages
 ---------------------
+
 
 ### Books
   - [DCPL](http://dcpl.mit.edu) - Design Concepts in Programming Languages – Franklyn Turbak and David Gifford, 2008
@@ -82,12 +92,15 @@ Programming Languages
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/) [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
 
+
 ### Papers
   - An argument against call/cc - Oleg Kiselyov [www](http://okmij.org/ftp/continuations/against-callcc.html)
 
 
+
 Compiler Construction
 ---------------------
+
 
 ### Books
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
@@ -96,26 +109,33 @@ Compiler Construction
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional langauges: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementationn of Functional Programming Languages - Simon Peyton Jones - 1987
 
+
 ### Papers
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
+
 
 ### Videos
   - [Coursera - Stanford - Compilers](http://www.coursera.org/course/compilers) - Alex Aiken
 
 
+
 Runtime systems
 ---------------
+
 
 ### Books
 
   - The Garbage Collection Handbook, The Art of Automatic Memory Management - 2011 - Richard Jones, Antony Hosking, Eliot Moss - [www](http://gchandbook.org/)
 
+
 ### Papers
   - [Lambda: The Ultimate GOTO](http://library.readscheme.org/page1.html) - Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO - 1977 - Guy Lewis Steele, Jr. [pdf](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
 
 
+
 Functional Programming
 ----------------------
+
 
 ### Books
 
@@ -150,10 +170,12 @@ Functional Programming
   - [Datatype-Generic Programming in Haskell](http://skillsmatter.com/podcast/home/a-haskell-lecture-with-leading-expert-andres-loh) - [Andres Löh](http://www.andres-loeh.de/) - [slides in pdf](http://www.andres-loeh.de/GP-ITB.pdf)
 
 
+
 Category Theory
 ---------------
 
 Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the presentation of the maths".
+
 
 ### Books
   - [Cakes, Custard and Category Theory: Easy recipes for understanding complex maths](http://www.amazon.com/Cakes-Custard-Category-Theory-understanding-ebook/dp/B00TA8SIV6) — [Eugenia Cheng](http://eugeniacheng.com/)
@@ -167,9 +189,11 @@ Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the pre
   - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
 
+
 ### Subtopics
 
 - [Recursion Schemes](category-theory/recursion-schemes.html)
+
 
 
 Other collections
