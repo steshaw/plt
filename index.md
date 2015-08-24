@@ -144,7 +144,7 @@ Functional Programming
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
   - Programming in Haskell - Graham Hutton, 2007 [www](http://www.cs.nott.ac.uk/~gmh/book.html)
   - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
-  - [FPiS] (http://www.manning.com/bjarnason/) - Functional Programming in Scala - Paul Chiusano and Rúnar Bjarnason
+  - [FPiS](http://www.manning.com/bjarnason/) - Functional Programming in Scala - Paul Chiusano and Rúnar Bjarnason
   - [SICP](http://mitpress.mit.edu/sicp/), Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman
   - [PCPH](http://chimera.labs.oreilly.com/books/1230000000929) - Parallel and Concurrent Programming in Haskell - Simon Marlow
   - [RWOC](https://realworldocaml.org/) - Real World OCaml - Jason Hickey, Anil Madhavapeddy, and Yaron Minsky
