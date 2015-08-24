@@ -157,12 +157,14 @@ Functional Programming
   - Lectures on the Curry-Howard Isomorphism [pdf](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
   - Purely Functional Data Structures - Chris Okasaki [phd-thesis in pdf](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) [paperback@booko](http://booko.com.au/9780521663502/Purely-Functional-Data-Structures) [More purely functional data structures](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki)
 
+
 ### Papers
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, assessible, book-length PhD on datatype generic programming.
   - ICFP accepted papers
-    - [[https://github.com/mpickering/icfp2015-papers][2015]]
-    - [[https://github.com/gasche/icfp2013-papers][2013]]
+    - [2015](https://github.com/mpickering/icfp2015-papers)
+    - [2013](https://github.com/gasche/icfp2013-papers)
+
 
 ### Videos
   - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals [www](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
@@ -208,3 +210,4 @@ Other collections
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
  - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://cgi.di.uoa.gr/~biboudis/)
  - [The Programming Language Zoo](http://andrej.com/plzoo/) - [Andrej Bauer](http://math.andrej.com/)
+
