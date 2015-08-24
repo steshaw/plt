@@ -2,4 +2,4 @@
 
 set -eu
 
-git co gh-pages && git merge master && git push && git co master
+git co gh-pages && git rebase master && git push && git co master
