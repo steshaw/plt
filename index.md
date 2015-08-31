@@ -71,7 +71,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
     - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
     - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
     - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
-  - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](http://www.youtube.com/watch?v=XGyJ519RY6Y)
+  - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](https://youtu.be/XGyJ519RY6Y)
 
 
 ### Subtopics
