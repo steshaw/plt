@@ -163,7 +163,7 @@ Functional Programming
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, assessible, book-length PhD on datatype generic programming.
   - ICFP accepted papers
-    - [2015](https://github.com/mpickering/icfp2015-papers)
+    - [2015](https://github.com/mpickering/icfp2015-papers), [by session](http://icfpconference.org/icfp2015/toc.html)
     - [2013](https://github.com/gasche/icfp2013-papers)
 
 
