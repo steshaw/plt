@@ -164,7 +164,9 @@ Functional Programming
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, assessible, book-length PhD on datatype generic programming.
   - ICFP accepted papers
     - [2015](https://github.com/mpickering/icfp2015-papers), [by session](http://icfpconference.org/icfp2015/toc.html)
+    - [2014](https://github.com/yallop/icfp2014-papers)
     - [2013](https://github.com/gasche/icfp2013-papers)
+    - [2012](https://github.com/technogeeky/icfp12-paper-links)
 
 
 ### Videos
