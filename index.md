@@ -22,6 +22,7 @@ Mathematical Literacy
 
 ### Algebra
 
+  - [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/) — Victor Shroup
   - Advanced Modern Algebra — Joseph J. Rotman [pdf](http://www.math.hcmuns.edu.vn/~nvdong/DaiSoDaiCuong/Advanced%20Modern%20Algebra%20-%20Joseph%20J.%20Rotman.pdf)
   - A Survey of Modern Algebra — Birkhoff and MacLane [Scribd](https://www.scribd.com/doc/198868558/A-Survey-of-Modern-Algebra-Birkhoff-MacLane#scribd)
 
