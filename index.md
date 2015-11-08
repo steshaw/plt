@@ -65,6 +65,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
   - [ΠΣ: Dependent Types without the Sugar](https://www.andres-loeh.de/PiSigma/PiSigma.pdf) - Thorsten Altenkirch, Nils Anders Danielsson, Andres Löh, and Nicolas Oury
   - Lambda Calculi with Types — Henk Barendregt [pdf](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
+  - [Intuitionistic Type Theory](http://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
 
 
 ### Videos
