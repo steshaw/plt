@@ -50,7 +50,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - Using, Understanding, and Unravelling The OCaml Language — An introduction [pdf](http://pauillac.inria.fr/~remy/cours/appsem/ocaml.pdf)
   -  Polymorphic typing of an algorithmic language (PhD Thesis) - Xavier Leroy [pdf](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
-  - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [www](http://mathgate.info/cebrown/notes/hindley97.php) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
+  - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
   - Lambda Calculus and Combinators - J. Roger Hindley and Jonathan P. Seldin [www](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lambda-calculus-and-combinators-introduction-2nd-edition) [pdf](http://pds14.egloos.com/pds/200901/16/93/Lambda-Calculus_and_Combinators.pdf)
   - Semantics with Applications: An Appetizer - Hanne Riis Nielson, Flemming Nielson [pdf](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf)
   - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
