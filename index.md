@@ -192,7 +192,7 @@ Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the pre
   - [Category Theory for the Sciences](http://category-theory.mitpress.mit.edu/) — David I. Spivak. Previously available in a draft entitled [Category Theory for Scientists](http://math.mit.edu/~dspivak/CT4S.pdf)
   - [CTCS-2nd](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) Category Theory for Computing Science - Michael Barr and Charles Wells [CTCS-1st](http://fef.ogu.edu.tr/matbil/eilgaz/kategori.pdf)
   - Topoi, The Categorical Analysis of Logic, Robert Goldblatt [Amazon](http://www.amazon.com/Topoi-Categorial-Analysis-Logic-Mathematics/dp/0486450260)
-  - [TTT](http://www.cwru.edu/artsci/math/wells/pub/ttt.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
+  - [TTT](http://www.tac.mta.ca/tac/reprints/articles/12/tr12abs.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
 
 
