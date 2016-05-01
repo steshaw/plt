@@ -198,7 +198,7 @@ Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the pre
 
 ### Subtopics
 
-- [Recursion Schemes]({{site.github.url}}category-theory/recursion-schemes.html)
+- [Recursion Schemes]({{site.github.url}}/category-theory/recursion-schemes.html)
 
 
 
