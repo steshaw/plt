@@ -77,8 +77,8 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Subtopics
 
-- [Higher Type Theory]({{site.github.url}}/higher-type-theory/)
-- [Module Systems]({{site.github.url}}/module-systems/)
+- [Higher Type Theory](higher-type-theory)
+- [Module Systems](module-systems)
 
 
 
