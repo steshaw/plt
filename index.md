@@ -112,6 +112,7 @@ Compiler Construction
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional languages: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementation of Functional Programming Languages - Simon Peyton Jones - 1987
   - [MinCaml](http://esumii.github.io/min-caml/index-e.html) - A Crash Course for the MinCaml Compiler
+  - [DragonBook](http://dragonbook.stanford.edu/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
 
 
 ### Papers
