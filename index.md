@@ -112,6 +112,7 @@ Compiler Construction
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementation of Functional Programming Languages - Simon Peyton Jones - 1987
   - [MCD-2e](http://www.dickgrune.com/Books/MCD_2nd_Edition/) Modern Compiler Design, Second Edition — Dick Grune et al.
   - [EaC-2e]() Engineering a Compiler, 2nd Edition, Cooper and Torczon
+  - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf), Niklaus Wirth
   - [DragonBook](http://dragonbook.stanford.edu/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
   - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
