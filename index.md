@@ -106,16 +106,22 @@ Compiler Construction
 
 
 ### Books
-  - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
-  - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
+  - [MinCaml](http://esumii.github.io/min-caml/index-e.html) - A Crash Course for the MinCaml Compiler
   - [MCIiML](http://www.cs.princeton.edu/~appel/modern/ml/) Modern Compiler Implementation in ML - Andrew W. Appel
   - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional languages: a tutorial - Simon Peyton Jones and David Lester, 1992
   - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementation of Functional Programming Languages - Simon Peyton Jones - 1987
-  - [MinCaml](http://esumii.github.io/min-caml/index-e.html) - A Crash Course for the MinCaml Compiler
+  - [MCD-2e](http://www.dickgrune.com/Books/MCD_2nd_Edition/) Modern Compiler Design, Second Edition — Dick Grune et al.
+  - [EaC-2e]() Engineering a Compiler, 2nd Edition, Cooper and Torczon
   - [DragonBook](http://dragonbook.stanford.edu/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
+  - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
+  - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
+  - [List of compiler books at the GCC Wiki](http://gcc.gnu.org/wiki/ListOfCompilerBooks)
 
 
 ### Papers
+  - [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), Abdulaziz Ghuloum
+  - [A Nanopass Framework for Compiler Education](http://www.cs.indiana.edu/~dyb/pubs/nano-jfp.pdf), Dipanwita Sarkar, Oscar Waddell, R. Kent Dybvig
+  - [A Nanopass Framework for Commercial Compiler Development](http://andykeep.com/pubs/dissertation.pdf), [Andrew W. Keep](http://andykeep.com/)
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
 
 
