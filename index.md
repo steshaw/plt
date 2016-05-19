@@ -56,6 +56,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
+  - [[http://ilyasergey.net/pnp/][PnP -- Proofs and Programs]]
 
 
 ### Papers
