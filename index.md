@@ -222,6 +222,7 @@ Other collections
  - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
  - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
  - [Functional programming books overview](http://alexott.net/en/fp/books/) — Alex (Alexey) Ott
+ - [TypeFunc](https://github.com/williamdemeo/TypeFunc), William Demeo
  - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Ehud Lamm et al.
  - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/lambda.html) (stale but includes "classic") - Chris Rathman
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
