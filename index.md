@@ -57,6 +57,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
   - Programs and Proofs - Ilya Sergey [www](http://ilyasergey.net/pnp/) [pdf](http://ilyasergey.net/pnp/pnp.pdf)
+  - Lectures on the Curry-Howard Isomorphism [pdf](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 
 
 ### Papers
@@ -68,6 +69,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Videos
   - [OPLSS](http://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2016](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php) - Oregon Programming Language Summer School 2016
     - [OPLSS 2015](http://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - Oregon Programming Language Summer School 2015
     - [OPLSS 2014](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html) - Oregon Programming Language Summer School 2014
     - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
@@ -168,7 +170,6 @@ Functional Programming
   - [HTDP](http://www.htdp.org/) - How to Design Programs - Matthias Felleisen, Robert Findler, Matthew Flatt, Shriram Krishnamurthi
   - [HR](http://homepages.cwi.nl/~jve/HR/) - The Haskell Road to Logic, Maths and Programming - 2nd Ed. - Kees Doets, Jan van Eijck [pdf](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
   - A Book of Abstract Algebra - 2nd Ed. - Charles C. Pinter [booko](http://booko.com.au/9780486474175/Book-of-Abstract-Algebra)
-  - Lectures on the Curry-Howard Isomorphism [pdf](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
   - Purely Functional Data Structures - Chris Okasaki [phd-thesis in pdf](http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) [paperback@booko](http://booko.com.au/9780521663502/Purely-Functional-Data-Structures) [More purely functional data structures](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki)
 
 
