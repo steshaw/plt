@@ -131,7 +131,7 @@ Compiler Construction
 
 
 ### Videos
-  - [Coursera - Stanford - Compilers](http://www.coursera.org/course/compilers) - Alex Aiken
+  - [Stanford - Compilers](https://online.stanford.edu/course/compilers-0) - Alex Aiken
 
 
 
