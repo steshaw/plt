@@ -130,10 +130,6 @@ Compiler Construction
   - [ZINC](http://caml.inria.fr/pub/papers/xleroy-zinc.pdf) - The ZINC experiment, an economical implementation of the ML language - Xavier Leroy (Technical Report) [more OCaml papers](http://caml.inria.fr/about/papers.en.html)
 
 
-### Videos
-  - [Coursera - Stanford - Compilers](http://www.coursera.org/course/compilers) - Alex Aiken
-
-
 
 Runtime systems
 ---------------
