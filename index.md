@@ -75,7 +75,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
     - [OPLSS 2016 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
     - [OPLSS 2015 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
     - [OPLSS 2014 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
-    - [OPLSS 2013 — Types Logic, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+    - [OPLSS 2013 — Types, Logic, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
     - [OPLSS 2012 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
     - [OPLSS 2011 — Types, Semantics and Verification](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html)
     - [OPLSS 2010 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html)
