@@ -69,14 +69,17 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 
 ### Videos
-  - [OPLSS](http://www.cs.uoregon.edu/research/summerschool/)
-    - [OPLSS 2016](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php) - Oregon Programming Language Summer School 2016
-    - [OPLSS 2015](http://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html) - Oregon Programming Language Summer School 2015
-    - [OPLSS 2014](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html) - Oregon Programming Language Summer School 2014
-    - [OPLSS 2013](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html) - Oregon Programming Language Summer School 2013
-    - [OPLSS 2012](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html) - Oregon Programming Language Summer School 2012
-    - [OPLSS 2011](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html) - Oregon Programming Language Summer School 2011
-    - [OPLSS 2010](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html) - Oregon Programming Language Summer School 2010
+  - [OPLSS — Oregon Programming Language Summer School](http://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2018 — Parallelism and Concurrency](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
+    - [OPLSS 2017 — A Spectrum of Types](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)
+    - [OPLSS 2016 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
+    - [OPLSS 2015 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
+    - [OPLSS 2014 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
+    - [OPLSS 2013 — Types Logic, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
+    - [OPLSS 2012 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
+    - [OPLSS 2011 — Types, Semantics and Verification](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html)
+    - [OPLSS 2010 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html)
+    - [Archives 2002-2018](https://www.cs.uoregon.edu/research/summerschool/archives.html)
   - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](https://youtu.be/XGyJ519RY6Y)
 
 
