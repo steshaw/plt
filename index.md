@@ -81,8 +81,8 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Subtopics
 
-- [Higher Type Theory]({{site.github.url}}/higher-type-theory/)
-- [Module Systems]({{site.github.url}}/module-systems/)
+- [Higher Type Theory]({{site.github.url | replace: 'http://', '//'}}/higher-type-theory/)
+- [Module Systems]({{site.github.url | replace: 'http://', '//'}}/module-systems/)
 
 
 
@@ -212,7 +212,7 @@ Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the pre
 
 ### Subtopics
 
-- [Recursion Schemes]({{site.github.url}}/category-theory/recursion-schemes.html)
+- [Recursion Schemes]({{site.github.url | replace: 'http://', '//'}}/category-theory/recursion-schemes.html)
 
 
 
