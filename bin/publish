@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-set -eu
-
-git co gh-pages && git rebase master && git push && git co master
