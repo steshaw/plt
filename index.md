@@ -51,20 +51,20 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   -  Polymorphic typing of an algorithmic language (PhD Thesis) - Xavier Leroy [pdf](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
   - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
-  - Lambda Calculus and Combinators - J. Roger Hindley and Jonathan P. Seldin [www](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lambda-calculus-and-combinators-introduction-2nd-edition) [pdf](http://pds14.egloos.com/pds/200901/16/93/Lambda-Calculus_and_Combinators.pdf)
-  - Semantics with Applications: An Appetizer - Hanne Riis Nielson, Flemming Nielson [pdf](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf)
+  - [Lambda Calculus and Combinators](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lambda-calculus-and-combinators-introduction-2nd-edition) [pdf](http://pds14.egloos.com/pds/200901/16/93/Lambda-Calculus_and_Combinators.pdf) — J. Roger Hindley and Jonathan P. Seldin
+  - [Semantics with Applications: An Appetizer](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf) — Hanne Riis Nielson, Flemming Nielson
   - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
-  - The Definition of Standard ML (1990) and Commentary on Standard ML (1991) [www](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition pdf](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary pdf](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
-  - Programs and Proofs - Ilya Sergey [www](http://ilyasergey.net/pnp/) [pdf](http://ilyasergey.net/pnp/pnp.pdf)
-  - Lectures on the Curry-Howard Isomorphism [pdf](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
+  - [The Definition of Standard ML (1990) and Commentary on Standard ML (1991)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
+  - [Programs and Proofs](http://ilyasergey.net/pnp/) — Ilya Sergey [pdf](http://ilyasergey.net/pnp/pnp.pdf)
+  - [Lectures on the Curry-Howard Isomorphism (pdf)](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 
 
 ### Papers
 
-  - A Tutorial Implementation of a Dependently Typed Lambda Calculus - Andres Löh, Conor McBride and Wouter Swierstra [www](http://www.andres-loeh.de/LambdaPi/) [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf), was previously published as "Simply Easy" [pdf](http://strictlypositive.org/Easy.pdf)
+  - [A Tutorial Implementation of a Dependently Typed Lambda Calculus](http://www.andres-loeh.de/LambdaPi/) — Andres Löh, Conor McBride and Wouter Swierstra [pdf](http://www.andres-loeh.de/LambdaPi/LambdaPi.pdf). Previously published as [Simply Easy](http://strictlypositive.org/Easy.pdf).
   - [ΠΣ: Dependent Types without the Sugar](https://www.andres-loeh.de/PiSigma/PiSigma.pdf) - Thorsten Altenkirch, Nils Anders Danielsson, Andres Löh, and Nicolas Oury
-  - Lambda Calculi with Types — Henk Barendregt [pdf](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf)
+  - [Lambda Calculi with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf) — Henk Barendregt
   - [Intuitionistic Type Theory](http://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
 
 
@@ -105,7 +105,7 @@ Programming Languages
 
 
 ### Papers
-  - An argument against call/cc - Oleg Kiselyov [www](http://okmij.org/ftp/continuations/against-callcc.html)
+  - [An argument against call/cc](http://okmij.org/ftp/continuations/against-callcc.html) — Oleg Kiselyov
 
 
 
@@ -145,11 +145,11 @@ Runtime systems
 
 ### Books
 
-  - The Garbage Collection Handbook, The Art of Automatic Memory Management - 2011 - Richard Jones, Antony Hosking, Eliot Moss - [www](http://gchandbook.org/)
+  - [The Garbage Collection Handbook, The Art of Automatic Memory Management](http://gchandbook.org/) — Richard Jones, Antony Hosking, Eliot Moss, 2011.
 
 
 ### Papers
-  - [Lambda: The Ultimate GOTO](http://library.readscheme.org/page1.html) - Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO - 1977 - Guy Lewis Steele, Jr. [pdf](http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
+  - [Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO](https://web.archive.org/web/20180406191621/http://library.readscheme.org/page1.html) — Guy Lewis Steele, Jr. (1977) [pdf](https://web.archive.org/web/20180130013734/http://repository.readscheme.org/ftp/papers/ai-lab-pubs/AIM-443.pdf)
 
 
 
@@ -161,13 +161,13 @@ Functional Programming
 
   - [Bird and Wadler](http://usi-pl.github.io/lc/sp-2015/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf) - Introduction to Functional Programming, 1st Edition - Bird and Wadler
   - [AoP](http://www.amazon.com/books/dp/013507245X) - The Algebra of Programming - Richard Bird, Oege de Moor
-  - Programming in Haskell - Graham Hutton, 2007 [www](http://www.cs.nott.ac.uk/~gmh/book.html)
+  - [Programming in Haskell](http://www.cs.nott.ac.uk/~gmh/book.html) — Graham Hutton (2007)
   - [RWH](http://book.realworldhaskell.org/) - Real World Haskell - Bryan O'Sullivan, Don Stewart, and John Goerzen
   - [FPiS](http://www.manning.com/bjarnason/) - Functional Programming in Scala - Paul Chiusano and Rúnar Bjarnason
   - [SICP](http://mitpress.mit.edu/sicp/), Structure and Interpretation of Computer Programs, by Abelson, Sussman, and Sussman
   - [PCPH](http://chimera.labs.oreilly.com/books/1230000000929) - Parallel and Concurrent Programming in Haskell - Simon Marlow
   - [RWOC](https://realworldocaml.org/) - Real World OCaml - Jason Hickey, Anil Madhavapeddy, and Yaron Minsky
-  - Developing Applications With OCaml - Emmanuel Chailloux, Pascal Manoury and Bruno Pagano, 2000 [www](http://caml.inria.fr/pub/docs/oreilly-book/index.html)
+  - [Developing Applications With OCaml](http://caml.inria.fr/pub/docs/oreilly-book/index.html) — Emmanuel Chailloux, Pascal Manoury and Bruno Pagano (2000)
   - [BTLS](http://www.ccs.neu.edu/home/matthias/BTLS/) - The Little Schemer - Daniel P. Friedman, Matthias Felleisen
   - [BTSS](http://www.ccs.neu.edu/home/matthias/BTSS/) - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
   - [BTML](http://www.ccs.neu.edu/home/matthias/BTML/) - The Little MLer - Matthias Felleisen, Daniel P. Friedman
@@ -188,8 +188,8 @@ Functional Programming
 
 
 ### Videos
-  - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals [www](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
-  - C9 Lectures: Dr. Ralf Lämmel - Going Bananas + Advanced Functional Programming [www](http://channel9.msdn.com/Tags/ralf-laemmel)
+  - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals)
+  - [C9 Lectures: Dr. Ralf Lämmel - Going Bananas + Advanced Functional Programming](http://channel9.msdn.com/Tags/ralf-laemmel)
   - [Datatype-Generic Programming in Haskell](http://skillsmatter.com/podcast/home/a-haskell-lecture-with-leading-expert-andres-loh) - [Andres Löh](http://www.andres-loeh.de/) - [slides in pdf](http://www.andres-loeh.de/GP-ITB.pdf)
 
 
@@ -197,7 +197,8 @@ Functional Programming
 Category Theory
 ---------------
 
-Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the presentation of the maths".
+Philip Wadler's advice here is "read Pierce for motivation, Mac Lane for the
+presentation of the maths".
 
 
 ### Books
