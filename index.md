@@ -87,6 +87,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 - [Higher Type Theory]({{site.github.url | replace: 'http://', '//'}}/higher-type-theory/)
 - [Module Systems]({{site.github.url | replace: 'http://', '//'}}/module-systems/)
+- [Effect Systems]({{site.github.url | replace: 'http://', '//'}}/effect-systems/)
 
 
 
