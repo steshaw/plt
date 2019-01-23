@@ -217,6 +217,9 @@ presentation of the maths".
   - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - Brendan Fong, David I Spivak
   - [Applied Category Theory Course](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course) - online course conducted by John Baez [forum](https://forum.azimuthproject.org/discussion/1717/welcome-to-the-applied-category-theory-course)
 
+### Journals
+  - [TAC](http://www.tac.mta.ca/tac/) - Theory and Applications of Categories
+
 ### Subtopics
 
 - [Recursion Schemes]({{site.github.url | replace: 'http://', '//'}}/category-theory/recursion-schemes.html)
