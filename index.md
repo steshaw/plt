@@ -215,6 +215,8 @@ presentation of the maths".
   - [TTT](http://www.tac.mta.ca/tac/reprints/articles/12/tr12abs.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
 
+### Journals
+  - [TAC](http://www.tac.mta.ca/tac/) - Theory and Applications of Categories
 
 ### Subtopics
 
