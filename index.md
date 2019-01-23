@@ -214,7 +214,8 @@ presentation of the maths".
   - Topoi, The Categorical Analysis of Logic, Robert Goldblatt [Amazon](http://www.amazon.com/Topoi-Categorial-Analysis-Logic-Mathematics/dp/0486450260)
   - [TTT](http://www.tac.mta.ca/tac/reprints/articles/12/tr12abs.html) - Toposes, Triples and Theories - Michael Barr and Charles Wells
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
-
+  - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - Brendan Fong, David I Spivak
+  - [Applied Category Theory Course](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course) - online course conducted by John Baez [forum](https://forum.azimuthproject.org/discussion/1717/welcome-to-the-applied-category-theory-course)
 
 ### Subtopics
 
