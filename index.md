@@ -39,7 +39,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
   - [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
   - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
-  - [PFPL](http://www.cs.cmu.edu/~rwh/pfpl.html) - Practical Foundations for Programming Languages (Second Edition) - Robert Harper [Online preview edition](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
+  - [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/) - Practical Foundations for Programming Languages (Second Edition) - Robert Harper [Online preview edition](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
   - [ATTaPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce ([pdf](http://cs305.com/book/programming_languages/adv_types_pl/0262162288.pdf))
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
   - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
@@ -235,4 +235,3 @@ Other collections
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
  - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://cgi.di.uoa.gr/~biboudis/)
  - [The Programming Language Zoo](http://andrej.com/plzoo/) - [Andrej Bauer](http://math.andrej.com/)
-
