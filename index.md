@@ -70,6 +70,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Videos
   - [OPLSS — Oregon Programming Language Summer School](http://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2019 — Foundations of Probabilistic Programming and Security](https://www.cs.uoregon.edu/research/summerschool/summer19/topics.php)
     - [OPLSS 2018 — Parallelism and Concurrency](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
     - [OPLSS 2017 — A Spectrum of Types](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)
     - [OPLSS 2016 — Types, Logic, Semantics, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
