@@ -217,6 +217,7 @@ presentation of the maths".
   - Category Theory Lectures Notes for ESSLLI - Michael Barr and Charles Wells [pdf](http://www.math.upatras.gr/~cdrossos/Docs/B-W-LectureNotes.pdf)
   - [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/abs/1803.05316) - Brendan Fong, David I Spivak
   - [Applied Category Theory Course](http://www.azimuthproject.org/azimuth/show/Applied+Category+Theory+Course) - online course conducted by John Baez [forum](https://forum.azimuthproject.org/discussion/1717/welcome-to-the-applied-category-theory-course)
+  - [CTFP](https://www.blurb.com/b/9008339-category-theory-for-programmers) - Category Theory for Programmers - [Bartosz Milewski](https://github.com/BartoszMilewski), created by [Igal Tabachnik](https://github.com/hmemcpy) from [series of blog posts](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/); video lectures based on this material: [part 1](https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_), [part 2](https://www.youtube.com/watch?v=3XTQSx1A3x8&list=PLbgaMIhjbmElia1eCEZNvsVscFef9m0dm), [part 3](https://www.youtube.com/watch?v=F5uEpKwHqdk&list=PLbgaMIhjbmEn64WVX4B08B4h2rOtueWIL); [pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ### Journals
   - [TAC](http://www.tac.mta.ca/tac/) - Theory and Applications of Categories
