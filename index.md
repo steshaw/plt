@@ -239,4 +239,5 @@ Other collections
  - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/lambda.html) (stale but includes "classic") - Chris Rathman
  - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
  - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://biboudis.github.io/)
+ - [Summer Schools Interesting Conferences](http://user.it.uu.se/~bengt/Info/summer-schools.shtml) - [Bengt Jonsson](http://user.it.uu.se/~bengt/)
  - [The Programming Language Zoo](http://andrej.com/plzoo/) - [Andrej Bauer](http://math.andrej.com/)
