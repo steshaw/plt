@@ -36,6 +36,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 
 ### Books
 
+  - [PLFA](https://plfa.github.io/) - Programming Language Foundations in Agda - [Philip Wadler](https://github.com/wadler), [Wen Kokke](https://github.com/wenkokke)
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
   - [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
   - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
