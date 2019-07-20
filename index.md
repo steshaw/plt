@@ -184,7 +184,11 @@ Functional Programming
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, accessible, book-length PhD on datatype generic programming.
   - ICFP accepted papers
-    - [2015](https://github.com/mpickering/icfp2015-papers), [by session](http://icfpconference.org/icfp2015/toc.html)
+    - [2019](https://github.com/llelf/icfp2019-papers)
+    - [2018](https://icfp18.sigplan.org/track/icfp-2018-papers#program), [video playlist](https://www.youtube.com/watch?v=Z3vr5xylMCE&list=PLnqUlCo055hVknu7QAW_RUZRmRZWXmnvv)
+    - [2017](https://github.com/gasche/icfp2017-papers), [video playlist](https://www.youtube.com/watch?v=RoddXtl8SU8&list=PLnqUlCo055hW7kU-SBQEhC_87etA5Gqlq)
+    - [2016](https://github.com/gasche/icfp2016-papers), [video playlist](https://www.youtube.com/watch?v=EpifLmPM1L0&list=PLnqUlCo055hV-Yb_88YYUC2ucaBKCWCsa)
+    - [2015](https://github.com/mpickering/icfp2015-papers), [by session](http://icfpconference.org/icfp2015/toc.html), [video playlist](https://www.youtube.com/watch?v=PI99A08Y83E&list=PLnqUlCo055hWNtUo1Haoq347VhCqIjs7u)
     - [2014](https://github.com/yallop/icfp2014-papers)
     - [2013](https://github.com/gasche/icfp2013-papers)
     - [2012](https://github.com/technogeeky/icfp12-paper-links)
