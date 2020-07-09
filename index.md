@@ -238,7 +238,7 @@ Other collections
 
  - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - Collected by Benjamin Piece
  - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
- - [PLT Texts Online](http://www.cs.uu.nl/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
+ - [PLT Texts Online](https://web.archive.org/web/20141002195305/http://www.cs.uu.nl:80/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
  - [Functional programming books overview](http://alexott.net/en/fp/books/) — Alex (Alexey) Ott
  - [TypeFunc](https://github.com/williamdemeo/TypeFunc), William Demeo
  - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Ehud Lamm et al.
