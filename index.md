@@ -58,6 +58,7 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
   - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
   - [The Definition of Standard ML (1990) and Commentary on Standard ML (1991)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
   - [Programs and Proofs](http://ilyasergey.net/pnp/) — Ilya Sergey [pdf](http://ilyasergey.net/pnp/pnp.pdf)
+  - [Type Theory and Formal Proof: An Introduction](https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X) — Rob Nederpelt, Herman Geuvers
   - [Lectures on the Curry-Howard Isomorphism (pdf)](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
 
 
