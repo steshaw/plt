@@ -175,6 +175,7 @@ Functional Programming
   - [BTLS](http://www.ccs.neu.edu/home/matthias/BTLS/) - The Little Schemer - Daniel P. Friedman, Matthias Felleisen
   - [BTSS](http://www.ccs.neu.edu/home/matthias/BTSS/) - The Seasoned Schemer - Daniel P. Friedman, Matthias Felleisen
   - [BTML](http://www.ccs.neu.edu/home/matthias/BTML/) - The Little MLer - Matthias Felleisen, Daniel P. Friedman
+  - [The Reasoned Schemer](http://minikanren.org/) and miniKanren
   - [HTDP](http://www.htdp.org/) - How to Design Programs - Matthias Felleisen, Robert Findler, Matthew Flatt, Shriram Krishnamurthi
   - [HR](http://homepages.cwi.nl/~jve/HR/) - The Haskell Road to Logic, Maths and Programming - 2nd Ed. - Kees Doets, Jan van Eijck [pdf](http://fldit-www.cs.uni-dortmund.de/~peter/PS07/HR.pdf)
   - A Book of Abstract Algebra - 2nd Ed. - Charles C. Pinter [booko](http://booko.com.au/9780486474175/Book-of-Abstract-Algebra)
