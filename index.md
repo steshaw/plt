@@ -128,6 +128,7 @@ Compiler Construction
   - [DragonBook](http://dragonbook.stanford.edu/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
   - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
+  - [Static Program Analysis](https://cs.au.dk/~amoeller/spa/spa.pdf), Anders Møller and Michael I. Schwartzbach
   - [List of compiler books at the GCC Wiki](http://gcc.gnu.org/wiki/ListOfCompilerBooks)
 
 
