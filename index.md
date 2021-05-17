@@ -106,6 +106,7 @@ Programming Languages
   - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/) [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
   - [PLP](http://cs.rochester.edu/u/scott/pragmatics/) Programming Language Pragmatics - Michael L. Scott
+  - [FSPL](https://mitpress.mit.edu/books/formal-semantics-programming-languages) The Formal Semantics of Programming Languages - Glynn Winskel
 
 
 ### Papers
