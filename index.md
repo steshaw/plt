@@ -12,6 +12,7 @@ particularly for programming practitioners who haven't studied it formally.
 This resource is here to help. Please feel free to ping me or send pull requests
 if you have ideas for improvement.
 
+#### Top Tip
 For a quick course in Type Theory, Philip Wadler recommends: _Types and Programming Languages_, _Proofs and Types_, followed by _Advanced Topics in Types and Programming Languages_.
 
 
