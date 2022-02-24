@@ -13,7 +13,12 @@ This resource is here to help. Please feel free to ping me or send pull requests
 if you have ideas for improvement.
 
 #### Top Tip
-For a quick course in Type Theory, Philip Wadler recommends: _Types and Programming Languages_, _Proofs and Types_, followed by _Advanced Topics in Types and Programming Languages_.
+
+For a quick course in Type Theory, Philip Wadler recommends: _[Types and
+Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/)_, _[Proofs
+and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)_, followed by
+_[Advanced Topics in Types and Programming
+Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)_.
 
 
 
