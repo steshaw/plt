@@ -12,7 +12,7 @@ particularly for programming practitioners who haven't studied it formally.
 This resource is here to help. Please feel free to ping me or send pull requests
 if you have ideas for improvement.
 
-#### Top Tip
+#### 💡 Top Tip
 
 For a quick course in Type Theory, Philip Wadler recommends: _[Types and
 Programming Languages](http://www.cis.upenn.edu/~bcpierce/tapl/)_, _[Proofs
