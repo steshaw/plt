@@ -7,32 +7,17 @@ title: Programming Language Theory
 Programming Language Theory
 ===========================
 
-Finding a path to enlightenment in _Programming Language Theory_ can be a tough one, particularly for programming practitioners who didn't learn it at school. This resource is here to help. Please feel free to ping me or send pull requests if you have ideas for improvement.
+Learning about _Programming Language Theory_ can be a tough journey,
+particularly for programming practitioners who haven't studied it formally.
+This resource is here to help. Please feel free to ping me or send pull requests
+if you have ideas for improvement.
 
-Note that I've attempted to order the books in order of most "tackleable". So the idea is to read books from top to bottom. As always, it depends on your background and inclinations. It would be nice to provide multiple paths through this material for folks with different backgrounds and even folks with different goals. However, for now, it is what it is.
-
-
-
-Mathematical Literacy
----------------------
-
-  - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
-  - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) — Daniel J. Velleman
-
-
-### Algebra
-
-  - [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/) — Victor Shoup
-  - Advanced Modern Algebra — Joseph J. Rotman [pdf](http://www.math.hcmuns.edu.vn/~nvdong/DaiSoDaiCuong/Advanced%20Modern%20Algebra%20-%20Joseph%20J.%20Rotman.pdf)
-  - A Survey of Modern Algebra — Birkhoff and MacLane [Scribd](https://www.scribd.com/doc/127988704/Birkhoff-a-Survey-of-Modern-Algebra)
+For a quick course in Type Theory, Philip Wadler recommends: _Types and Programming Languages_, _Proofs and Types_, followed by _Advanced Topics in Types and Programming Languages_.
 
 
 
 Type Theory
 -----------
-
-For a quick course in Type Theory, Philip Wadler recommends: *Types and Programming Languages*, *Proofs and Types*, followed by *Advanced Topics in Types and Programming Languages*.
-
 
 ### Books
 
@@ -91,7 +76,6 @@ For a quick course in Type Theory, Philip Wadler recommends: *Types and Programm
 - [Higher Type Theory]({{site.github.url | replace: 'http://', '//'}}/higher-type-theory/)
 - [Module Systems]({{site.github.url | replace: 'http://', '//'}}/module-systems/)
 - [Effect Systems]({{site.github.url | replace: 'http://', '//'}}/effect-systems/)
-
 
 
 
@@ -234,6 +218,29 @@ presentation of the maths".
 ### Subtopics
 
 - [Recursion Schemes]({{site.github.url | replace: 'http://', '//'}}/category-theory/recursion-schemes.html)
+
+
+
+Mathematical Literacy
+---------------------
+
+It can be useful to have some background in mathematical thinking.
+
+  - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
+  - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) — Daniel J. Velleman
+
+
+
+Mathematics
+-----------
+
+Some related maths resources.
+
+### Algebra
+
+  - [A Computational Introduction to Number Theory and Algebra](http://shoup.net/ntb/) — Victor Shoup
+  - Advanced Modern Algebra — Joseph J. Rotman [pdf](http://www.math.hcmuns.edu.vn/~nvdong/DaiSoDaiCuong/Advanced%20Modern%20Algebra%20-%20Joseph%20J.%20Rotman.pdf)
+  - A Survey of Modern Algebra — Birkhoff and MacLane [Scribd](https://www.scribd.com/doc/127988704/Birkhoff-a-Survey-of-Modern-Algebra)
 
 
 
