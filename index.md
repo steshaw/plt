@@ -221,20 +221,19 @@ presentation of the maths".
 
 
 
-Mathematical Literacy
----------------------
+Mathematics
+-----------
+
+Some related maths resources.
+
+
+### Mathematical Literacy/Thinking
 
 It can be useful to have some background in mathematical thinking.
 
   - [Introduction to Mathematical Thinking](http://www.amazon.com/Introduction-Mathematical-Thinking-Keith-Devlin-ebook/dp/B009LTPSTO) — [Keith Devlin](http://profkeithdevlin.org/)
   - [How to prove it](http://www.amazon.com/How-Prove-It-Structured-Approach/dp/0521675995) — Daniel J. Velleman
 
-
-
-Mathematics
------------
-
-Some related maths resources.
 
 ### Algebra
 
