@@ -20,6 +20,8 @@ and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)_, followed by
 _[Advanced Topics in Types and Programming
 Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)_.
 
+See also Daniel Gratzer's [Learn Type Theory](https://github.com/jozefg/learn-tt).
+
 
 
 Type Theory
