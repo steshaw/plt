@@ -9,8 +9,8 @@ Programming Language Theory
 
 Learning about _Programming Language Theory_ can be a tough journey,
 particularly for programming practitioners who haven't studied it formally.
-This resource is here to help. Please feel free to ping me or send pull requests
-if you have ideas for improvement.
+This resource is here to help. Please feel free to get in touch if you have
+ideas for improvement.
 
 #### 💡 Top Tips
 
