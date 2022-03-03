@@ -254,14 +254,15 @@ It can be useful to have some background in mathematical thinking.
 Other collections
 -----------------
 
- - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) - Collected by Benjamin Piece
- - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) - Karl Crary
- - [PLT Texts Online](https://web.archive.org/web/20141002195305/http://www.cs.uu.nl:80/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) - Frank Atanassow
+ - [Great Works in Programming Languages](http://www.cis.upenn.edu/~bcpierce/courses/670Fall04/GreatWorksInPL.shtml) — Benjamin Piece
+ - [Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/) — Karl Crary
+ - [The collected works of Per Martin-Löf](https://github.com/michaelt/martin-lof) — Michael Thompson and others
+ - [PLT Texts Online](https://web.archive.org/web/20141002195305/http://www.cs.uu.nl:80/wiki/Techno/ProgrammingLanguageTheoryTextsOnline) — Frank Atanassow
  - [Functional programming books overview](http://alexott.net/en/fp/books/) — Alex (Alexey) Ott
- - [TypeFunc](https://github.com/williamdemeo/TypeFunc), William Demeo
- - [Lambda the Ultimate](http://lambda-the-ultimate.org/) - Ehud Lamm et al.
- - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/lambda.html) (stale but includes "classic") - Chris Rathman
- - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) - Chris Rathman
- - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) - [Aggelos Biboudis](http://biboudis.github.io/)
- - [Summer Schools Interesting Conferences](http://user.it.uu.se/~bengt/Info/summer-schools.shtml) - [Bengt Jonsson](http://user.it.uu.se/~bengt/)
- - [The Programming Language Zoo](http://andrej.com/plzoo/) - [Andrej Bauer](http://math.andrej.com/)
+ - [TypeFunc](https://github.com/williamdemeo/TypeFunc) — William Demeo
+ - [Lambda the Ultimate](http://lambda-the-ultimate.org/) — Ehud Lamm et al.
+ - [Archives of Lambda the Ultimate](http://www.angelfire.com/tx4/cus/lambda.html) (stale but includes "classic") — Chris Rathman
+ - [Programming Language People](http://www.angelfire.com/tx4/cus/people/index.html) — Chris Rathman
+ - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) — [Aggelos Biboudis](http://biboudis.github.io/)
+ - [Summer Schools Interesting Conferences](http://user.it.uu.se/~bengt/Info/summer-schools.shtml) — [Bengt Jonsson](http://user.it.uu.se/~bengt/)
+ - [The Programming Language Zoo](http://andrej.com/plzoo/) — [Andrej Bauer](http://math.andrej.com/)
