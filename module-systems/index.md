@@ -78,18 +78,18 @@ similar mechanisms for their own languages.".
 Odersky introduced implicit parameters to Scala in version 2.0.
 He explained how that gets you to "type classes" at this talk:
 
-  <http://lampwww.epfl.ch/~odersky/talks/wg2.8-boston06.pdf>
+&nbsp;&nbsp;&nbsp;&nbsp;<http://lampwww.epfl.ch/~odersky/talks/wg2.8-boston06.pdf>
 
 and again (more formally) in 2010:
 
-  [Type classes as objects and implicits][tcoi]
+&nbsp;&nbsp;&nbsp;&nbsp;[Type classes as objects and implicits][tcoi]
 
 
 #### [George Kuan][kuan]
 
--   [A True Higher-Order Module System](http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj),
-    George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
--   [LinkedIn profile](http://www.linkedin.com/pub/george-kuan/6/672/324)
+- [A True Higher-Order Module System](http://smlnj-gforge.cs.uchicago.edu/scm/viewvc.php/*checkout*/papers/hofsem/dissertation/kuan-dissertation.pdf?root=smlnj),
+  George Kuan, Ph.D. Dissertation, University of Chicago, 2010.
+- [LinkedIn profile](http://www.linkedin.com/pub/george-kuan/6/672/324)
 
 ### Modular type classes show-stopper?
 
