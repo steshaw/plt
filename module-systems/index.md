@@ -64,7 +64,7 @@ parameterised modules.
 Bruno Oliveira went on to write a paper about "implicits" with some
 other folks.
 
-<http://ropas.snu.ac.kr/~wclee/papers/pldi12a.pdf>
+[The Implicit Calculus: A New Foundation for Generic Programming](https://i.cs.hku.hk/~bruno/papers/pldi2012.pdf)
 
 The idea is to study the "implicits" as a separate language feature that
 should be considered by language designers, or in their words "This
