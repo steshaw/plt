@@ -73,7 +73,7 @@ provides a simple model for language designers interested in developing
 similar mechanisms for their own languages.".
 
 
-#### [Odersky][odersky]
+#### [Martin Odersky][odersky]
 
 Odersky introduced implicit parameters to Scala in version 2.0.
 He explained how that gets you to "type classes" at this talk:
