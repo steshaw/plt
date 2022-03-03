@@ -20,7 +20,7 @@ by [Derek Dreyer][dreyer], [Robert Harper][harper], and [Manuel M.T. Chakravarty
 I found the paper kind of tough going but I recall that presentation gives a
 really good intuition about it.
 <http://www.mpi-sws.org/~dreyer/talks/popl07.ppt>
-[QuickView](https://docs.google.com/viewer?a=v&q=cache:cx96awCp_lIJ:www.mpi-sws.org/~dreyer/talks/popl07.ppt+&hl=en&pid=bl&srcid=ADGEESg5e53hOkNZbmS0DeLJXGi53_bh1sP-L5LwI3TDc6E2EzXcwJ3DV-mbgFsi3TLY7sS2jgXJvaCl9nmma4pLJSBTnjPZEBiQIixaNwGxCOpzf_hWWbaMETVEVywbvWBw-ar62CLR&sig=AHIEtbQBIMONy2dxxecTju1aCnWiTcdn0A)
+[View via Google Docs](https://docs.google.com/viewer?url=www.mpi-sws.org/~dreyer/talks/popl07.ppt)
 
 Extract of the SML code from the presentation/paper
 <https://github.com/steshaw/playground/blob/master/sml/typeClass.sml>
