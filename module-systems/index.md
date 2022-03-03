@@ -53,11 +53,13 @@ operate on modules called functors (not to be confused with
 fmap-Functors or Applicative Functors). These module functors are
 parameterised modules.
 
+
 ### Related
+
 
 #### [Bruno C. d. S. Oliveira][oliveira]
 
-[Type classes as objects and implicits](http://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf)
+[Type classes as objects and implicits][tcoi]
 
 Bruno Oliveira went on to write a paper about "implicits" with some
 other folks.
@@ -70,16 +72,18 @@ calculus isolates and formalizes the key ideas of Scala implicits and
 provides a simple model for language designers interested in developing
 similar mechanisms for their own languages.".
 
+
 #### [Odersky][odersky]
 
 Odersky introduced implicit parameters to Scala in version 2.0.
 He explained how that gets you to "type classes" at this talk:
 
-<http://lampwww.epfl.ch/~odersky/talks/wg2.8-boston06.pdf>
+  <http://lampwww.epfl.ch/~odersky/talks/wg2.8-boston06.pdf>
 
 and again (more formally) in 2010:
 
-<http://ropas.snu.ac.kr/~bruno/papers/TypeClasses.pdf>
+  [Type classes as objects and implicits][tcoi]
+
 
 #### [George Kuan][kuan]
 
@@ -98,10 +102,12 @@ since the type of x is universally quantified, the canonical instance of
 Num a **must** be determined dynamically (i.e. passed in as an
 argument)."
 
+
 ### Modular type classes and deriving
 
 - [_Practical Generic Programming with OCaml_](http://research.microsoft.com/en-us/um/people/crusso/ml2007/slides/yallop-ml07.pdf)  
   by Jeremy Yallop, LFCS, University of Edinburgh, ML Workshop 2007.
+
 
 ### Orphan instances
 
@@ -127,3 +133,4 @@ implicit definitions).
 [oliveira]: https://i.cs.hku.hk/~bruno/
 [odersky]: https://lampwww.epfl.ch/~odersky/
 [kuan]: https://people.cs.uchicago.edu/~gkuan/
+[tcoi]: https://i.cs.hku.hk/~bruno/papers/TypeClasses.pdf
