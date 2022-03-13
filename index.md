@@ -31,7 +31,7 @@ Type Theory
 
   - [PLFA](https://plfa.github.io/) - Programming Language Foundations in Agda - [Philip Wadler](https://github.com/wadler), [Wen Kokke](https://github.com/wenkokke)
   - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
-  - [TaPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
+  - [TAPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
   - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
   - [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/) - Practical Foundations for Programming Languages (Second Edition) - Robert Harper [Online preview edition](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
   - [ATTAPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce
