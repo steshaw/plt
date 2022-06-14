@@ -53,7 +53,7 @@ Type Theory
   - [Programs and Proofs](http://ilyasergey.net/pnp/) — Ilya Sergey [pdf](http://ilyasergey.net/pnp/pnp.pdf)
   - [Type Theory and Formal Proof: An Introduction](https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X) — Rob Nederpelt, Herman Geuvers
   - [Lectures on the Curry-Howard Isomorphism (pdf)](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
-  - Program = Proof - Samuel Mimram [pdf](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
+  - Program = Proof — Samuel Mimram [pdf](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
 
 
 ### Papers
