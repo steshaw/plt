@@ -100,6 +100,7 @@ Programming Languages
   - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
   - [PLP](http://cs.rochester.edu/u/scott/pragmatics/) Programming Language Pragmatics - Michael L. Scott
   - [FSPL](https://mitpress.mit.edu/books/formal-semantics-programming-languages) The Formal Semantics of Programming Languages - Glynn Winskel
+  - [PL:BPC](https://www.build-prove-compare.net/) Programming Languages: Build, Prove, and Compare - Norman Ramsey
 
 
 ### Papers
