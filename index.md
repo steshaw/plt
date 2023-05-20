@@ -62,7 +62,8 @@ Type Theory
   - [ΠΣ: Dependent Types without the Sugar](https://www.andres-loeh.de/PiSigma/PiSigma.pdf) - Thorsten Altenkirch, Nils Anders Danielsson, Andres Löh, and Nicolas Oury
   - [Lambda Calculi with Types](http://ttic.uchicago.edu/~dreyer/course/papers/barendregt.pdf) — Henk Barendregt
   - [Intuitionistic Type Theory](http://www.csie.ntu.edu.tw/~b94087/ITT.pdf)
-
+  - [Type Theory](https://plato.stanford.edu/entries/type-theory/) - Thierry Coquand
+  
 
 ### Videos
   - [OPLSS — Oregon Programming Language Summer School](http://www.cs.uoregon.edu/research/summerschool/)
@@ -180,6 +181,8 @@ Functional Programming
 
 ### Papers
   - [Lambda Papers](http://library.readscheme.org/page1.html) - Lambda: The Ultimate Imperative/Declarative/GOTO - Guy Steele and Gerald Sussman
+  - [The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/) - Jesse Alama and Johannes Korbacher
+  - [A Tutorial Introduction to the Lambda Calculus](https://personal.utdallas.edu/~gupta/courses/apl/lambda.pdf) - Raul Rojas
   - [Exploring Generic Haskell](http://www.andres-loeh.de/ExploringGH.pdf) (PhD thesis) - [Andres Löh](http://www.andres-loeh.de/). This an epic, accessible, book-length PhD on datatype generic programming.
   - ICFP accepted papers
     - [2019](https://github.com/llelf/icfp2019-papers)
@@ -190,6 +193,7 @@ Functional Programming
     - [2014](https://github.com/yallop/icfp2014-papers)
     - [2013](https://github.com/gasche/icfp2013-papers)
     - [2012](https://github.com/technogeeky/icfp12-paper-links)
+    
 
 
 ### Videos
