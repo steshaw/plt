@@ -30,28 +30,28 @@ Type Theory
 ### Books
 
   - [PLFA](https://plfa.github.io/) - Programming Language Foundations in Agda - [Philip Wadler](https://github.com/wadler), [Wen Kokke](https://github.com/wenkokke)
-  - [SF](http://www.cis.upenn.edu/~bcpierce/sf/) - Software Foundations - Benjamin C. Pierce et al.
+  - [SF](https://softwarefoundations.cis.upenn.edu/) - Software Foundations - Benjamin C. Pierce et al. [Available with jsCoq](https://jscoq.github.io/ext/sf/)
   - [TAPL](http://www.cis.upenn.edu/~bcpierce/tapl/) - Types and Programming Languages - Benjamin C. Pierce
   - [PROT](http://www.paultaylor.eu/stable/Proofs+Types.html) Proofs and Types - Jean-Yves Girard, Yves Lafont and Paul Taylor - 1987-90 [pdf](http://www.paultaylor.eu/stable/prot.pdf)
   - [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/) - Practical Foundations for Programming Languages (Second Edition) - Robert Harper [Online preview edition](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
   - [ATTAPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
-  - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
+  - [SEwPR](https://mitpress.mit.edu/9780262062756/semantics-engineering-with-plt-redex/) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](https://redex.racket-lang.org/)
   - [HoTT](http://homotopytypetheory.org/book/) - Homotopy Type Theory, Univalent Foundations of Mathematics
   - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
   - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
   - [PiMLTT](http://www.cse.chalmers.se/research/group/logic/book/) - Programming in Martin-Löf's Type Theory, An Introduction - Bengt Nordström, Kent Petersson, Jan M. Smith
   - Using, Understanding, and Unravelling The OCaml Language — An introduction [pdf](http://pauillac.inria.fr/~remy/cours/appsem/ocaml.pdf)
-  -  Polymorphic typing of an algorithmic language (PhD Thesis) - Xavier Leroy [pdf](http://gallium.inria.fr/~xleroy/publi/phd-thesis.pdf)
+  -  Polymorphic typing of an algorithmic language (PhD Thesis) - Xavier Leroy [pdf](https://xavierleroy.org/publi/phd-thesis.pdf)
   - [ATP](http://www.cl.cam.ac.uk/~jrh13/atp/) - Handbook of Practical Logic and Automated Reasoning - John Harrison
   - Basic Simple Type Theory - J. Roger Hindley [pdf](http://mathtrielhighschool.files.wordpress.com/2011/08/number-theory.pdf) [paperback@booko](http://booko.com.au/9780521054225/Basic-Simple-Type-Theory)
   - [Lambda Calculus and Combinators](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lambda-calculus-and-combinators-introduction-2nd-edition) [pdf](http://pds14.egloos.com/pds/200901/16/93/Lambda-Calculus_and_Combinators.pdf) — J. Roger Hindley and Jonathan P. Seldin
-  - [Semantics with Applications: An Appetizer](http://www.daimi.au.dk/~bra8130/Wiley_book/wiley.pdf) — Hanne Riis Nielson, Flemming Nielson
+  - [Semantics with Applications: An Appetizer](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) — Hanne Riis Nielson, Flemming Nielson
   - An Introduction to Lambda Calculi for Computer Scientists - Chris Hankin
-  - The Definition of Standard ML (Revised) - Milner, Fofte, Harper, and MacQueen
-  - [The Definition of Standard ML (1990) and Commentary on Standard ML (1991)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary (pdf)](http://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
+  - [The Definition of Standard ML (1990) and Commentary on Standard ML (1991)](https://web.archive.org/web/20180927020934/http://www.itu.dk/people/tofte/publ/1990sml/1990sml.html) [definition (pdf)](https://web.archive.org/web/20160518190441/http://www.itu.dk/people/tofte/publ/1990sml/1990sml.pdf) [commentary (pdf)](https://web.archive.org/web/20160917123723/https://www.itu.dk/people/tofte/publ/1990sml/1991commentaryBody.pdf)
+  - [The Definition of Standard ML (Revised)](https://smlfamily.github.io/sml97-defn.pdf) - Milner, Fofte, Harper, and MacQueen
   - [Programs and Proofs](http://ilyasergey.net/pnp/) — Ilya Sergey [pdf](http://ilyasergey.net/pnp/pnp.pdf)
-  - [Type Theory and Formal Proof: An Introduction](https://www.amazon.com/Type-Theory-Formal-Proof-Introduction/dp/110703650X) — Rob Nederpelt, Herman Geuvers
+  - [Type Theory and Formal Proof: An Introduction](https://www.cambridge.org/core/books/type-theory-and-formal-proof/0472640AAD34E045C7F140B46A57A67C) — Rob Nederpelt, Herman Geuvers
   - [Lectures on the Curry-Howard Isomorphism (pdf)](http://disi.unitn.it/~bernardi/RSISE11/Papers/curry-howard.pdf)
   - Program = Proof — Samuel Mimram [pdf](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf)
 
@@ -65,7 +65,10 @@ Type Theory
 
 
 ### Videos
-  - [OPLSS — Oregon Programming Language Summer School](http://www.cs.uoregon.edu/research/summerschool/)
+  - [OPLSS — Oregon Programming Language Summer School](https://www.cs.uoregon.edu/research/summerschool/)
+    - [OPLSS 2023 — Types, Semantics, and Logic](https://www.cs.uoregon.edu/research/summerschool/summer23/topics.php)
+    - [OPLSS 2022 — Types, Semantics, and Program Reasoning](https://www.cs.uoregon.edu/research/summerschool/summer22/topics.php)
+    - [OPLSS 2021 — Foundations of Programming and Security](https://www.cs.uoregon.edu/research/summerschool/summer21/topics.php)
     - [OPLSS 2019 — Foundations of Probabilistic Programming and Security](https://www.cs.uoregon.edu/research/summerschool/summer19/topics.php)
     - [OPLSS 2018 — Parallelism and Concurrency](https://www.cs.uoregon.edu/research/summerschool/summer18/topics.php)
     - [OPLSS 2017 — A Spectrum of Types](https://www.cs.uoregon.edu/research/summerschool/summer17/topics.php)
@@ -77,6 +80,7 @@ Type Theory
     - [OPLSS 2011 — Types, Semantics and Verification](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html)
     - [OPLSS 2010 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html)
     - [Archives 2002-2018](https://www.cs.uoregon.edu/research/summerschool/archives.html)
+  - [HoTTEST — Homotopy Type Theory Summer School 2022](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
   - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](https://youtu.be/XGyJ519RY6Y)
 
 
@@ -93,11 +97,11 @@ Programming Languages
 
 
 ### Books
-  - [DCPL](http://dcpl.mit.edu) - Design Concepts in Programming Languages – Franklyn Turbak and David Gifford, 2008
+  - [DCPL](https://mitpress.mit.edu/9780262201759/design-concepts-in-programming-languages/) - Design Concepts in Programming Languages – Franklyn Turbak and David Gifford, 2008. [Course](https://ocw.mit.edu/courses/6-821-programming-languages-fall-2002/)
   - [CTM](http://www.info.ucl.ac.be/~pvr/book.html) - Concepts, Techniques, and Models of Computer Programming, Peter Van Roy and Seif Haridi
   - [EOPL](http://www.eopl3.com/) - Essentials of Programming Languages, 3rd Edition - Daniel P. Friedman
-  - [PLAI-2nd](http://cs.brown.edu/courses/cs173/2012/book/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi [course with videos](http://cs.brown.edu/courses/cs173/2012/) [PLAI-1st](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/)
-  - [PAIP](http://www.norvig.com/paip.html) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
+  - [PLAI](https://www.plai.org/) - Programming Languages: Application and Interpretation - Shriram Krishnamurthi
+  - [PAIP](https://github.com/norvig/paip-lisp) Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp - Peter Norvig, 1992
   - [PLP](http://cs.rochester.edu/u/scott/pragmatics/) Programming Language Pragmatics - Michael L. Scott
   - [FSPL](https://mitpress.mit.edu/books/formal-semantics-programming-languages) The Formal Semantics of Programming Languages - Glynn Winskel
   - [PL:BPC](https://www.build-prove-compare.net/) Programming Languages: Build, Prove, and Compare - Norman Ramsey
@@ -115,12 +119,12 @@ Compiler Construction
 ### Books
   - [MinCaml](http://esumii.github.io/min-caml/index-e.html) - A Crash Course for the MinCaml Compiler
   - [MCIiML](http://www.cs.princeton.edu/~appel/modern/ml/) Modern Compiler Implementation in ML - Andrew W. Appel
-  - [pj-lester-book](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/) Implementing functional languages: a tutorial - Simon Peyton Jones and David Lester, 1992
-  - [slpj-book-1987](http://research.microsoft.com/en-us/um/people/simonpj/papers/slpj-book-1987/) - The Implementation of Functional Programming Languages - Simon Peyton Jones - 1987
+  - [pj-lester-book](https://www.microsoft.com/en-us/research/publication/implementing-functional-languages-a-tutorial) Implementing functional languages: a tutorial - Simon Peyton Jones and David Lester, 1992
+  - [slpj-book-1987](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf) - The Implementation of Functional Programming Languages - Simon Peyton Jones - 1987
   - [MCD-2e](http://www.dickgrune.com/Books/MCD_2nd_Edition/) Modern Compiler Design, Second Edition — Dick Grune et al.
-  - [EaC-2e]() Engineering a Compiler, 2nd Edition, Cooper and Torczon
-  - [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf), Niklaus Wirth
-  - [DragonBook](http://dragonbook.stanford.edu/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
+  - [EaC-2e](https://dl.acm.org/doi/10.1145/2088883.2088908) Engineering a Compiler, 2nd Edition, Cooper and Torczon
+  - [Compiler Construction](https://people.inf.ethz.ch/wirth/CompilerConstruction/index.html), Niklaus Wirth
+  - [DragonBook](https://suif.stanford.edu/dragonbook/) - "The Dragon Book" Compilers: Principles, Techniques, and Tools
   - [LiSP](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/lisp-small-pieces) - Lisp in Small Pieces - Christian Queinnec
   - [CwC](http://www.cambridge.org/us/academic/subjects/computer-science/programming-languages-and-applied-logic/compiling-continuations) Compiling with Continuations - Andrew W. Appel
   - [Static Program Analysis](https://cs.au.dk/~amoeller/spa/spa.pdf), Anders Møller and Michael I. Schwartzbach
