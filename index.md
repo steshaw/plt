@@ -20,7 +20,7 @@ and Types](http://www.paultaylor.eu/stable/Proofs+Types.html)_, followed by
 _[Advanced Topics in Types and Programming
 Languages](https://www.cis.upenn.edu/~bcpierce/attapl/)_.
 
-See also Daniel Gratzer's [Learn Type Theory](https://github.com/jozefg/learn-tt) and Darryl McAdams's [So you want to learn type theory](https://web.archive.org/web/20190213100051/http://purelytheoretical.com/sywtltt.html).
+See also Daniel Gratzer's [Learn Type Theory](https://github.com/jozefg/learn-tt), Darryl McAdams's [So you want to learn type theory](https://web.archive.org/web/20190213100051/http://purelytheoretical.com/sywtltt.html), and Alex Ott's [Functional programming books overview](https://alexott.net/en/fp/books/).
 
 
 
