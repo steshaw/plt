@@ -36,7 +36,7 @@ Type Theory
   - [PFPL](http://www.cs.cmu.edu/~rwh/pfpl/) - Practical Foundations for Programming Languages (Second Edition) - Robert Harper [Online preview edition](http://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf)
   - [ATTAPL](http://www.cis.upenn.edu/~bcpierce/attapl/) - Advanced Topics in Types and Programming Languages - Edited by Benjamin C. Pierce
   - [CPDT](http://adam.chlipala.net/cpdt/) - Certified Programming with Dependent Types - Adam Chlipala
-  - [SEwPR](http://mitpress.mit.edu/books/semantics-engineering-plt-redex) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
+  - [SEwPR](https://mitpress.mit.edu/9780262062756/semantics-engineering-with-plt-redex/) - Semantics Engineering with PLT Redex - Matthias Felleisen, Robby Findler, and Matthew Flatt. [Redex](http://redex.racket-lang.org/)
   - [HoTT](http://homotopytypetheory.org/book/) - Homotopy Type Theory, Univalent Foundations of Mathematics
   - [Coq'Art](http://www.labri.fr/perso/casteran/CoqArt/index.html) Interactive Theorem Proving and Program Development, Coq'Art: The Calculus of Inductive Constructions - Yves Bertot, Pierre Castéran.
   - [TTFP](http://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Type Theory and Functional Programming - Simon Thompson, 1991
