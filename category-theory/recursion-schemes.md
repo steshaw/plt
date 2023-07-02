@@ -26,7 +26,7 @@ Recursion Schemes
 ### Articles
 
   - [Recursion Schemes: A Field Guide (Redux)](http://comonad.com/reader/2009/recursion-schemes/) — Edward Kmett
-  - [recursion-schemes](https://github.com/ekmett/recursion-schemes/blob/master/Data/Functor/Foldable.hs) - Edward Kmett
+  - [recursion-schemes package](https://hackage.haskell.org/package/recursion-schemes) - Edward Kmett
   - [Catamorphisms](https://www.fpcomplete.com/user/edwardk/recursion-schemes/catamorphisms) — Edward Kmett
   - Series by Patrick Thomson
     - [An Introduction to Recursion Schemes](https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html)
