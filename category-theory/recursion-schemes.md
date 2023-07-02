@@ -19,7 +19,7 @@ Recursion Schemes
 
 ### Talks
 
-  - [Going Bananas](http://channel9.msdn.com/Shows/Going+Deep/C9-Lectures-Dr-Ralf-Lmmel-Going-Bananas), Ralf Lämmel
+  - [Going Bananas](https://youtu.be/3DoqZOcn1ro), Ralf Lämmel
   - [Categories for the Working Haskeller](https://skillsmatter.com/skillscasts/5787-categories-for-the-working-haskeller) — Jeremy Gibbons
 
 
