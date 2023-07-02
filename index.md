@@ -215,7 +215,7 @@ presentation of the maths".
 
 ### Books
   - [Cakes, Custard and Category Theory: Easy recipes for understanding complex maths](http://www.amazon.com/Cakes-Custard-Category-Theory-understanding-ebook/dp/B00TA8SIV6) — [Eugenia Cheng](http://eugeniacheng.com/)
-  - Category Theory, Steve Awodey. [pdf](http://www.mtm.ufsc.br/~ebatista/2016-2/maclanecat.pdf)
+  - Category Theory, Steve Awodey. [pdf](https://pages.jh.edu/rrynasi1/NewFoundations4Math/Literature/Textbooks/Awodey2010CategoryTheory.2ndEdition.pdf) [course](https://pages.jh.edu/rrynasi1/NewFoundations4Math/Literature/Textbooks/Awodey2016CategoryTheory.LectureNotes/)
   - Basic Category Theory for Computer Scientists - Benjamin C. Pierce. Previously available in a draft entitled [A taste of category theory for computer scientists](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2846&context=compsci)
   - [Categories for the Working Mathematician](http://www.maths.ed.ac.uk/~aar/papers/maclanecat.pdf) — Saunders Mac Lane
   - [Conceptual Mathematics](http://www.cambridge.org/us/academic/subjects/mathematics/logic-categories-and-sets/conceptual-mathematics-first-introduction-categories-2nd-edition) A First Introduction to Categories, 2nd Edition - F. William Lawere and Stephen H. Schanuel
