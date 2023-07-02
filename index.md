@@ -80,7 +80,7 @@ Type Theory
     - [OPLSS 2012 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
     - [OPLSS 2011 — Types, Semantics and Verification](http://www.cs.uoregon.edu/research/summerschool/summer11/curriculum.html)
     - [OPLSS 2010 — Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer10/curriculum.html)
-    - [Archives 2002-2018](https://www.cs.uoregon.edu/research/summerschool/archives.html)
+    - [Complete archives 2002-Present](https://www.cs.uoregon.edu/research/summerschool/archives.html)
   - [HoTTEST — Homotopy Type Theory Summer School 2022](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
   - [ICFP 2012 Monday keynote. Conor McBride: Agda-curious?](https://youtu.be/XGyJ519RY6Y)
 
