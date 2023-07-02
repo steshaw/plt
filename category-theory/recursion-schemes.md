@@ -28,5 +28,10 @@ Recursion Schemes
   - [Recursion Schemes: A Field Guide (Redux)](http://comonad.com/reader/2009/recursion-schemes/) — Edward Kmett
   - [recursion-schemes](https://github.com/ekmett/recursion-schemes/blob/master/Data/Functor/Foldable.hs) - Edward Kmett
   - [Catamorphisms](https://www.fpcomplete.com/user/edwardk/recursion-schemes/catamorphisms) — Edward Kmett
-  - [An Introduction to Recursion Schems and Codata](http://patrickthomson.ghost.io/an-introduction-to-recursion-schemes/) — Patrick Thomson
-
+  - Series by Patrick Thomson
+    - [An Introduction to Recursion Schemes](https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html)
+    - [Recursion Schemes, Part II: A Mob of Morphisms](https://blog.sumtypeofway.com/posts/recursion-schemes-part-2.html)
+    - [Recursion Schemes, Part III: Folds in Context](https://blog.sumtypeofway.com/posts/recursion-schemes-part-3.html)
+    - [Recursion Schemes, Part IV: Time is of the Essence](https://blog.sumtypeofway.com/posts/recursion-schemes-part-4.html)
+    - [Recursion Schemes, Part 4½: Better Living Through Base Functor](https://blog.sumtypeofway.com/posts/recursion-schemes-part-4-point-5.html)
+    - [Recursion Schemes, Part V: Hello, Hylomorphisms](https://blog.sumtypeofway.com/posts/recursion-schemes-part-5.html)
