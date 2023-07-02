@@ -36,3 +36,4 @@ Recursion Schemes
     - [Recursion Schemes, Part IV: Time is of the Essence](https://blog.sumtypeofway.com/posts/recursion-schemes-part-4.html)
     - [Recursion Schemes, Part 4½: Better Living Through Base Functor](https://blog.sumtypeofway.com/posts/recursion-schemes-part-4-point-5.html)
     - [Recursion Schemes, Part V: Hello, Hylomorphisms](https://blog.sumtypeofway.com/posts/recursion-schemes-part-5.html)
+  - Sandy Maguire's [Review: Bananas, Lenses, Envelopes and Barbed Wire](https://reasonablypolymorphic.com/blog/recursion-schemes/)
