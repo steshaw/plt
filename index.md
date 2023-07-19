@@ -290,3 +290,4 @@ Other collections
 - [Summer Schools Interesting Conferences](http://user.it.uu.se/~bengt/Info/summer-schools.shtml) — [Bengt Jonsson](http://user.it.uu.se/~bengt/)
 - [The Programming Language Zoo](http://andrej.com/plzoo/) — [Andrej Bauer](http://math.andrej.com/)
 - [Max Bernstein' PL resources](https://bernsteinbear.com/pl-resources/)
+- [Programming Language Research](https://github.com/imteekay/programming-language-research) — [TK](https://www.iamtk.co)
