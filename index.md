@@ -289,3 +289,4 @@ Other collections
 - [PL Summer Schools forall](https://gist.github.com/biboudis/377b4a4de4d1718df2d0) — [Aggelos Biboudis](http://biboudis.github.io/)
 - [Summer Schools Interesting Conferences](http://user.it.uu.se/~bengt/Info/summer-schools.shtml) — [Bengt Jonsson](http://user.it.uu.se/~bengt/)
 - [The Programming Language Zoo](http://andrej.com/plzoo/) — [Andrej Bauer](http://math.andrej.com/)
+- [Max Bernstein' PL resources](https://bernsteinbear.com/pl-resources/)
