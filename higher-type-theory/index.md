@@ -14,7 +14,7 @@ title: Higher Type Theory
 ## Background
 
 - [Algebraic Topology](http://www.math.cornell.edu/~hatcher/AT/ATpage.html) — Allen Hatcher
-- [Intuitionistic Type Theory](http://www.csie.ntu.edu.tw/~b94087/ITT.pdf) — Per Martin-Löf's
+- [Intuitionistic Type Theory](https://web.archive.org/web/20201112015534/https://www.csie.ntu.edu.tw/~b94087/ITT.pdf) — Per Martin-Löf's
 
 
 ## Courses
